@@ -1,0 +1,30 @@
+{
+  "app": {
+    "platform": "android", // 平台标识（android/ios）
+    "packageName": "top.aktv", // 应用包名（需与商店一致）
+    "versionCode": 3, // 内部版本号（整数）
+    "versionName": "1.0.1", // 用户可见版本号
+    "minSupportVersion": 3, // 最低兼容版本号（强制升级阈值）
+    
+    "update": {
+      "type": "recommended", // 更新类型（强制/推荐/静默）
+      "title": "发现新版本", // 弹窗标题
+      "description": [
+        "1. 新增视频编辑功能",
+        "2. 优化夜间模式显示效果",
+        "3. 修复已知的崩溃问题"
+      ], // 更新日志（支持多语言数组）
+      
+      "download": {
+        "url": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk",
+        "size": 4552209, // 文件字节数
+        "md5": "d71d4d19084dc6c1d99d4ff1a6f029bd",
+      },
+      
+      "extra": {
+        "enableSilent": false, // 是否启用静默更新
+        "effectiveTime": "2026-03-15T00:00:00Z" // 更新时间有效期
+      }
+    }
+  }
+}
