@@ -1,12 +1,1 @@
-{
-"version": "3",
-    "name": "v1.0.1",
-    "updateLog": "修复了若干bug，改进了启动速度。",
-    "downloadUrls": {
-        "stable": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk",
-        "beta": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk"
-    },
-    "updateDate": "2026-03-13",
-    "introduct": "欢迎使用新版本，期待您的反馈。",
-    "mandatoryUpdate": true
-}
+{\"version\":\"3\",\"name\":\"v1.0.1\",\"updateLog\":\"修复了若干bug，改进了启动速度。\",\"downloadUrls\":{\"stable\":\"https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk\",\"beta\":\"https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk\"},\"updateDate\":\"2026-03-13\",\"introduct\":\"欢迎使用新版本，期待您的反馈。\",\"mandatoryUpdate\":true}
