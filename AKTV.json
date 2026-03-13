@@ -1,6 +1,6 @@
 {
 "version": "3",
-    "name": "1.0.1",
+    "name": "v1.0.1",
     "updateLog": "修复了若干bug，改进了启动速度。",
     "downloadUrls": {
         "stable": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk",
