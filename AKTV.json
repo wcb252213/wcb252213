@@ -3,8 +3,8 @@
     "name": "1.0.1",
     "updateLog": "修复了若干bug，改进了启动速度。",
     "downloadUrls": {
-        "stable": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.json",
-        "beta": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.json"
+        "stable": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk",
+        "beta": "https://raw.githubusercontent.com/wcb252213/wcb252213/main/AKTV.apk"
     },
     "updateDate": "2023-03-15",
     "introduct": "欢迎使用新版本，期待您的反馈。",
