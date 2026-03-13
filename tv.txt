@@ -1,4 +1,4 @@
-﻿ 央视频道,#genre#
+央视频道,#genre#
 CCTV1综合,http://110.42.52.180:6688/live/zb.php?token=ZY-6ea9EXJybTluTfA0hYdecuh7PlZoGL%2BMq8ri2DfXiIQ7/4engIe71hbqbaxq4FiXfBKOQ5iD&zy.m3u8
 CCTV2财经,http://110.42.52.180:6688/live/zb.php?token=ZY-9880GyRHuPhOJK5YiXzWiGqo7WL5MXQW8f6xWwrc5TiaNWHpivUrv/Z4oteJRuTFD%2B%2B9j3KU&zy.m3u8
 CCTV3综艺,http://110.42.52.180:6688/live/zb.php?token=ZY-4867m4JUWOmvgij4k4QYGL%2BZvqm%2B2XJkT7VYq4j%2BE4uXuDA0der5bTF2XiYibExT2l%2BpFaKV&zy.m3u8
