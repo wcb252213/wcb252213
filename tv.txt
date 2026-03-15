@@ -509,7 +509,7 @@ CHC家庭影院,http://110.42.52.180:6688/live/zb.php?token=ZY-e479GVRc%2B08teZ6
 熊猫频道8,http://110.42.52.180:6688/live/zb.php?token=ZY-7136vYVStu5Xk8ak0vkIfE0bkye9awb0v%2B0KHK2RnaNbOKJZKf/hzRCAl2HX5aeiEfh6kQ&zy.m3u8
 熊猫频道9,http://110.42.52.180:6688/live/zb.php?token=ZY-550fG57wm/0Vb%2B3sOlwq14dJ6yYgJefD7FYPzLE0%2BsHjxUuSRjMFEkp%2B9E2JoffoVuEz4w&zy.m3u8
 熊猫频道10,http://110.42.52.180:6688/live/zb.php?token=ZY-0421HwvzsSDzJVTs54ZQn0xJptE2jqMKY9VMkNpNq3I7kQc7Pvvif/l5MIyskOtFbIVtweY&zy.m3u8
- 高血压,#genre#
+ 健康频道,#genre#
 高血压-1,https://m.douyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d5oc49fog65ljec5pt10&ratio=720p&line=0
 高血压-2,https://m.douyin.com/aweme/v1/playwm/?video_id=v2700fgi0000d47152nog65mg7si2mb0&ratio=720p&line=0
 高血压-3,https://m.douyin.com/aweme/v1/playwm/?video_id=v0d00fg10000d5johtvog65qgcpf1jr0&ratio=720p&line=0
