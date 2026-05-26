@@ -121,3 +121,8 @@ CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+健康频道,#genre#
+高血压-1,https://m.douyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d5oc49fog65ljec5pt10&ratio=720p&line=0
+高血压-2,https://m.douyin.com/aweme/v1/playwm/?video_id=v2700fgi0000d47152nog65mg7si2mb0&ratio=720p&line=0
+高血压-3,https://m.douyin.com/aweme/v1/playwm/?video_id=v0d00fg10000d5johtvog65qgcpf1jr0&ratio=720p&line=0
+空腹哲学,https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/ies-music/7613678791877004058.mp3
