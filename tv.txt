@@ -600,3 +600,9 @@ CHC家庭影院,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5ba2Za12LQJDc
 剧集_武林外传,http://110.42.52.180:6688/livecast/huya.php?token=ZY-0546hqNCL5IcD6E1%2BvlwuVV1K1lmVeT3sQCxkUJa6raAGTlF9CGHn4GAnDe2f4XjfpO7INRfuQcM&zy.m3u8
 剧集_地下交通站,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c092pFkZlGR/0qISa9Zzyp/EHP6PJBU2fP%2Bmsg9zctsjj8DIVrCWceUiMNaG86LjrRB%2Bs3LXqVow&zy.m3u8
 剧集_邻里一家亲,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b864JpUMPnyKaM%2B0ucqX6a8Fb2NKDKagrGKgsIRL7qfloFDvTZrNpE1duulNb5UPxN9KmjUjKdkw&zy.m3u8
+
+健康频道,#genre#
+高血压-1,https://m.douyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d5oc49fog65ljec5pt10&ratio=720p&line=0
+高血压-2,https://m.douyin.com/aweme/v1/playwm/?video_id=v2700fgi0000d47152nog65mg7si2mb0&ratio=720p&line=0
+高血压-3,https://m.douyin.com/aweme/v1/playwm/?video_id=v0d00fg10000d5johtvog65qgcpf1jr0&ratio=720p&line=0
+空腹哲学,https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/ies-music/7613678791877004058.mp3
