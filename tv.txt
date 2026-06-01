@@ -1,617 +1,602 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-6-1 12:23:13
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601114721&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.178.218.117&SecurityKey=20260601114721&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b92993b5560674af4166abb50d68e146&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285638415&prlId=4f89b0f1d885527a227fd4a636419cfe1780285638421&jid=4f89b0f1d885527a227fd4a636419cfe1780285638159V&is_advertise=0&sjid=subsession_1780285672876&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5fd3b6a52c22c0dc113cf5d6ff61a16d
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601114721&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.178.218.117&SecurityKey=20260601114721&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b92993b5560674af4166abb50d68e146&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285638415&prlId=4f89b0f1d885527a227fd4a636419cfe1780285638421&jid=4f89b0f1d885527a227fd4a636419cfe1780285638159V&is_advertise=0&sjid=subsession_1780285672876&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5fd3b6a52c22c0dc113cf5d6ff61a16d
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601114403&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=60.13.177.78&SecurityKey=20260601114403&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=9f18df1a2ee7898524579d8eb073614e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285440145&prlId=4f89b0f1d885527a227fd4a636419cfe1780285440152&jid=4f89b0f1d885527a227fd4a636419cfe1780285439252V&is_advertise=0&sjid=subsession_1780285474515&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a75425dd508fdac07d5536727155893e
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601113701&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.178.218.26&SecurityKey=20260601113701&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=955d8e57d8e4dbbd35ac7c2561ce2787&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285018665&prlId=4f89b0f1d885527a227fd4a636419cfe1780285018680&jid=4f89b0f1d885527a227fd4a636419cfe1780285017606V&is_advertise=0&sjid=subsession_1780285051772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=415f00aba46f231e9ad52d30f963c30c
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
-http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视频道",CCTV2财经
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260601111200&Channel_ID=0116_2600037000-99000-200300220107365&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=123.235.32.146&SecurityKey=20260601111200&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=045c3d46ada634aec834aef6862fc170
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视频道",CCTV3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260601112833&Channel_ID=0116_2600037000-99000-200300220107388&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=60.221.125.57&SecurityKey=20260601112833&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a7bc74c83dbd887a59ae39506dea9a56
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视频道",CCTV3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260601112742&Channel_ID=0116_2600037000-99000-200300220107387&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=221.204.40.117&SecurityKey=20260601112742&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=212b872ad5003858c09bfe888e288c76
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视频道",CCTV3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260601112206&Channel_ID=0116_2600037000-99000-200300220107379&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=121.30.193.53&SecurityKey=20260601112206&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d605dce9aa18c775938e9aaf36b74ff6
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视频道",CCTV4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv4hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20260601114011&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=116.178.218.148&SecurityKey=20260601114011&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=9ca11cb27565028440a1acae407f7615&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285208091&prlId=4f89b0f1d885527a227fd4a636419cfe1780285208121&jid=4f89b0f1d885527a227fd4a636419cfe1780285207104V&is_advertise=0&sjid=subsession_1780285241242&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8df5541427934aaf6f7e5d211f98d65c
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视频道",CCTV4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20260601112717&Channel_ID=0116_2600037000-99000-200300220107386&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=221.204.40.117&SecurityKey=20260601112717&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fcba4532034e55ecb3abf81bd1971955
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视频道",CCTV4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20260601112648&Channel_ID=0116_2600037000-99000-200300220107385&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=221.204.40.164&SecurityKey=20260601112648&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ab94a7fa68384679c424af33f7baebc3
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视频道",CCTV5体育
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv5hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260601115348&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=116.178.218.240&SecurityKey=20260601115348&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fb27536c3140544c5934faf27b662090&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780286025873&prlId=4f89b0f1d885527a227fd4a636419cfe1780286025900&jid=4f89b0f1d885527a227fd4a636419cfe1780286023680V&is_advertise=0&sjid=subsession_1780286146777&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7cf40ee3bf2af69fd17dccf0bf39e390
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视频道",CCTV6电影
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv6hd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20260601114814&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=116.178.218.145&SecurityKey=20260601114814&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=482a1f7939184324a132b220fac720a7&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285690957&prlId=4f89b0f1d885527a227fd4a636419cfe1780285690967&jid=4f89b0f1d885527a227fd4a636419cfe1780285690217V&is_advertise=0&sjid=subsession_1780285797868&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5f559ef2779a051a4ec0d07f651fcb51
-#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视频道",CCTV7国防军事
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5501083622&pid=2028597139&timestamp=20260601115053&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=116.178.218.53&SecurityKey=20260601115053&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=0d993a652df6fa40c8aa958d7cbc2f57&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285850062&prlId=4f89b0f1d885527a227fd4a636419cfe1780285850068&jid=4f89b0f1d885527a227fd4a636419cfe1780285849017V&is_advertise=0&sjid=subsession_1780285966177&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=735605b4cf2a071d05b007aea3e9a1cb
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视频道",CCTV8电视剧
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv8hd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500212868&pid=2028597139&timestamp=20260601114456&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=60.13.177.75&SecurityKey=20260601114456&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=d15ce3881a11859811245459fcfa5860&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285493790&prlId=4f89b0f1d885527a227fd4a636419cfe1780285493795&jid=4f89b0f1d885527a227fd4a636419cfe1780285492861V&is_advertise=0&sjid=subsession_1780285604497&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=77ad9b775304d7d075dadc829ff111b2
-#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202603081600_1772956792519_H32_1080.webp" group-title="央视频道",CCTV9纪录
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5501083624&pid=2028597139&timestamp=20260601115839&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=120.71.59.111&SecurityKey=20260601115839&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=012dc18667178ae26b611ec9bb204855&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780286316107&prlId=4f89b0f1d885527a227fd4a636419cfe1780286316121&jid=4f89b0f1d885527a227fd4a636419cfe1780286315319V&is_advertise=0&sjid=subsession_1780286424676&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=51818884b4eb9f6b63b3fac66f585266
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视频道",CCTV5+体育赛事
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260601115620&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=120.71.59.14&SecurityKey=20260601115620&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=666bcf7dfea35c65890be10689e34af0&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780286177338&prlId=4f89b0f1d885527a227fd4a636419cfe1780286177353&jid=4f89b0f1d885527a227fd4a636419cfe1780286176448V&is_advertise=0&sjid=subsession_1780286287336&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38173d22c5547366bdc7878b0c17d98b
-#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视频道",CCTV10科教
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212874&pid=2028597139&timestamp=20260601111551&Channel_ID=0116_2600037000-99000-200300220107372&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=123.235.32.196&SecurityKey=20260601111551&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3ad34dc2d99330ed8ee9e3b1baf5d813
-#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视频道",CCTV11戏曲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500988610&pid=2028597139&timestamp=20260601111516&Channel_ID=0116_2600037000-99000-200300220107371&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=123.235.32.196&SecurityKey=20260601111516&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=959ad88e1201e48977d27f50c6f8d573
-#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视频道",CCTV12社会与法
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083627&pid=2028597139&timestamp=20260601111450&Channel_ID=0116_2600037000-99000-200300220107370&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=123.235.32.196&SecurityKey=20260601111450&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1a2ea066aa94ac8983e89ca9d68f0ac
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视频道",CCTV13新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260601111306&Channel_ID=0116_2600037000-99000-200300220107367&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=123.235.32.181&SecurityKey=20260601111306&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a01b79ba82af54de03f7d2cbaf6f15bb
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视频道",CCTV14少儿
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20260601111421&Channel_ID=0116_2600037000-99000-200300220107369&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=123.235.32.196&SecurityKey=20260601111421&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba51af8be2fd4d8bee5f75a47b8417ed
-#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视频道",CCTV15音乐
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260601111355&Channel_ID=0116_2600037000-99000-200300220107368&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=123.235.32.181&SecurityKey=20260601111355&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=84d755cda67c9c20b1f97e8c20b56532
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视频道",CCTV17农业农村
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20260601111226&Channel_ID=0116_2600037000-99000-200300220107366&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=123.235.32.146&SecurityKey=20260601111226&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bc68fecc3343723630e52fd242d7061c
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视频道",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jswshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699067&netType=4&sid=5500199408&pid=2028597139&timestamp=20260601113754&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=116.178.218.88&SecurityKey=20260601113754&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b838ecd7b4b54fd4b10046f54bf74d35&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285071556&prlId=4f89b0f1d885527a227fd4a636419cfe1780285071582&jid=4f89b0f1d885527a227fd4a636419cfe1780285070780V&is_advertise=0&sjid=subsession_1780285183850&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1cde4a8335bea62fbdc9f7423744fea5
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视频道",江苏卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视频道",东方卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022185&pid=2028597139&timestamp=20260601113443&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=116.178.218.210&SecurityKey=20260601113443&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3ae96c6ba132b2c00c2b795244d5af6e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780284880183&prlId=4f89b0f1d885527a227fd4a636419cfe1780284880186&jid=4f89b0f1d885527a227fd4a636419cfe1780284879237V&is_advertise=0&sjid=subsession_1780284994054&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=afb640250cec09ff15094c39a136dc02
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视频道",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260601114111&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=60.13.177.45&SecurityKey=20260601114111&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5a3279fea5614d644362f47b9e8d0c9f&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285268342&prlId=4f89b0f1d885527a227fd4a636419cfe1780285268349&jid=4f89b0f1d885527a227fd4a636419cfe1780285267654V&is_advertise=0&sjid=subsession_1780285377609&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dd87d5ae729020254da98508c6f1df19
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视频道",北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022306&pid=2028597139&timestamp=20260601114321&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=60.13.177.85&SecurityKey=20260601114321&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3134ba8294e622e275dc58464b049077&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780285399031&prlId=4f89b0f1d885527a227fd4a636419cfe1780285399037&jid=4f89b0f1d885527a227fd4a636419cfe1780285398041V&is_advertise=0&sjid=subsession_1780285399787&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5ab87b8d7f5801fc06fdfdf35e32c687
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视频道",湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910022163&pid=2028597139&timestamp=20260601110829&Channel_ID=0116_2600037000-99000-200300220107360&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=123.235.32.66&SecurityKey=20260601110829&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=277316d2c0082e733ab83b3d58116311
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视频道",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视频道",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视频道",辽宁卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600572&netType=4&sid=5910022198&pid=2028597139&timestamp=20260601110801&Channel_ID=0116_2600037000-99000-200300220107359&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=123.235.32.66&SecurityKey=20260601110801&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71bd6beff9e380769fc6bc9608701b0b
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视频道",辽宁卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视频道",东南卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600717&netType=4&sid=5910022182&pid=2028597139&timestamp=20260601120049&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=36.138.127.43&SecurityKey=20260601120049&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c0404a1ac1bacd97dd4f0a3c37a68900&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780286446715&prlId=4f89b0f1d885527a227fd4a636419cfe1780286446745&jid=4f89b0f1d885527a227fd4a636419cfe1780286445677V&is_advertise=0&sjid=subsession_1780286556398&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13c8630fe3638d1e74d909a6899e08b4
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视频道",东南卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视频道",重庆卫视
-https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视频道",吉林卫视
-https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视频道",江西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260601110904&Channel_ID=0116_2600037000-99000-200300220107361&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=123.235.32.66&SecurityKey=20260601110904&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38d81bf46cb0b9e7794e763bad8029c0
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视频道",兵团卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
-https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="长沙县新闻综合" tvg-name="长沙县新闻综合" tvg-logo="" group-title="湖南地区",长沙县新闻综合
-https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
-#EXTINF:-1 tvg-id="衡山综合" tvg-name="衡山综合" tvg-logo="" group-title="湖南地区",衡山综合
-https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
-#EXTINF:-1 tvg-id="龙山综合" tvg-name="龙山综合" tvg-logo="" group-title="湖南地区",龙山综合
-https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
-#EXTINF:-1 tvg-id="平江综合" tvg-name="平江综合" tvg-logo="" group-title="湖南地区",平江综合
-https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8
-#EXTINF:-1 tvg-id="津市综合" tvg-name="津市综合" tvg-logo="" group-title="湖南地区",津市综合
-https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8
-#EXTINF:-1 tvg-id="花垣综合" tvg-name="花垣综合" tvg-logo="" group-title="湖南地区",花垣综合
-https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
-#EXTINF:-1 tvg-id="临武综合" tvg-name="临武综合" tvg-logo="" group-title="湖南地区",临武综合
-https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
-#EXTINF:-1 tvg-id="桂东融媒" tvg-name="桂东融媒" tvg-logo="" group-title="湖南地区",桂东融媒
-https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
-#EXTINF:-1 tvg-id="衡阳县电视台" tvg-name="衡阳县电视台" tvg-logo="" group-title="湖南地区",衡阳县电视台
-https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
-#EXTINF:-1 tvg-id="新化电视台" tvg-name="新化电视台" tvg-logo="" group-title="湖南地区",新化电视台
-https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
-#EXTINF:-1 tvg-id="桂阳新闻综合" tvg-name="桂阳新闻综合" tvg-logo="" group-title="湖南地区",桂阳新闻综合
-https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-#EXTINF:-1 tvg-id="屈原融媒体" tvg-name="屈原融媒体" tvg-logo="" group-title="湖南地区",屈原融媒体
-https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
-#EXTINF:-1 tvg-id="新邵新闻综合" tvg-name="新邵新闻综合" tvg-logo="" group-title="湖南地区",新邵新闻综合
-https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
-#EXTINF:-1 tvg-id="耒阳电视台" tvg-name="耒阳电视台" tvg-logo="" group-title="湖南地区",耒阳电视台
-https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
-#EXTINF:-1 tvg-id="永兴电视台" tvg-name="永兴电视台" tvg-logo="" group-title="湖南地区",永兴电视台
-https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-#EXTINF:-1 tvg-id="沅江电视台" tvg-name="沅江电视台" tvg-logo="" group-title="湖南地区",沅江电视台
-https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
-#EXTINF:-1 tvg-id="蓝山电视台" tvg-name="蓝山电视台" tvg-logo="" group-title="湖南地区",蓝山电视台
-https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
-#EXTINF:-1 tvg-id="芷江综合" tvg-name="芷江综合" tvg-logo="" group-title="湖南地区",芷江综合
-https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
-#EXTINF:-1 tvg-id="靖州综合" tvg-name="靖州综合" tvg-logo="" group-title="湖南地区",靖州综合
-https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
-#EXTINF:-1 tvg-id="双峰电视台" tvg-name="双峰电视台" tvg-logo="" group-title="湖南地区",双峰电视台
-https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
-#EXTINF:-1 tvg-id="嘉禾新闻综合" tvg-name="嘉禾新闻综合" tvg-logo="" group-title="湖南地区",嘉禾新闻综合
-https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
-#EXTINF:-1 tvg-id="城步电视台" tvg-name="城步电视台" tvg-logo="" group-title="湖南地区",城步电视台
-https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
-#EXTINF:-1 tvg-id="衡东电视台" tvg-name="衡东电视台" tvg-logo="" group-title="湖南地区",衡东电视台
-https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
-#EXTINF:-1 tvg-id="汝城台" tvg-name="汝城台" tvg-logo="" group-title="湖南地区",汝城台
-https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
-#EXTINF:-1 tvg-id="中方台" tvg-name="中方台" tvg-logo="" group-title="湖南地区",中方台
-https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
-#EXTINF:-1 tvg-id="吉首综合" tvg-name="吉首综合" tvg-logo="" group-title="湖南地区",吉首综合
-https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
-#EXTINF:-1 tvg-id="安化综合" tvg-name="安化综合" tvg-logo="" group-title="湖南地区",安化综合
-https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
-#EXTINF:-1 tvg-id="古丈1" tvg-name="古丈1" tvg-logo="" group-title="湖南地区",古丈1
-https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
-http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
-http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="" group-title="浙江地区",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="" group-title="浙江地区",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="" group-title="浙江地区",浙江经济生活
-http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="" group-title="浙江地区",浙江经济生活
-http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="" group-title="浙江地区",浙江民生休闲
-http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="" group-title="浙江地区",浙江民生休闲
-http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="" group-title="浙江地区",浙江新闻
-http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="" group-title="浙江地区",浙江新闻
-http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="" group-title="浙江地区",浙江教科影视
-http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="" group-title="浙江地区",浙江教科影视
-http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="" group-title="浙江地区",浙江国际
-http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="" group-title="浙江地区",浙江国际
-http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-#EXTINF:-1 tvg-id="嵊州综合" tvg-name="嵊州综合" tvg-logo="" group-title="浙江地区",嵊州综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-id="象山综合" tvg-name="象山综合" tvg-logo="" group-title="浙江地区",象山综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 tvg-id="新昌综合" tvg-name="新昌综合" tvg-logo="" group-title="浙江地区",新昌综合
-http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 tvg-id="平湖新闻综合" tvg-name="平湖新闻综合" tvg-logo="" group-title="浙江地区",平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="" group-title="浙江地区",平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-#EXTINF:-1 tvg-id="青田电视台" tvg-name="青田电视台" tvg-logo="" group-title="浙江地区",青田电视台
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 tvg-id="余姚新闻综合" tvg-name="余姚新闻综合" tvg-logo="" group-title="浙江地区",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-id="萧山综合" tvg-name="萧山综合" tvg-logo="" group-title="浙江地区",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-id="萧山生活" tvg-name="萧山生活" tvg-logo="" group-title="浙江地区",萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-id="上虞新闻综合" tvg-name="上虞新闻综合" tvg-logo="" group-title="浙江地区",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-id="上虞文化影视" tvg-name="上虞文化影视" tvg-logo="" group-title="浙江地区",上虞文化影视
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="普陀电视台" tvg-name="普陀电视台" tvg-logo="" group-title="浙江地区",普陀电视台
-http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-#EXTINF:-1 tvg-id="庆元电视台" tvg-name="庆元电视台" tvg-logo="" group-title="浙江地区",庆元电视台
-http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" tvg-logo="" group-title="浙江地区",东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 tvg-id="兰溪新闻综合" tvg-name="兰溪新闻综合" tvg-logo="" group-title="浙江地区",兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 tvg-id="缙云新闻综合" tvg-name="缙云新闻综合" tvg-logo="" group-title="浙江地区",缙云新闻综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-#EXTINF:-1 tvg-id="龙泉电视台" tvg-name="龙泉电视台" tvg-logo="" group-title="浙江地区",龙泉电视台
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="" group-title="江苏地区",南京新闻综合
-http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="" group-title="江苏地区",南京教科
-http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="" group-title="江苏地区",南京文旅纪录
-http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" tvg-logo="" group-title="江苏地区",南京十八生活
-http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="" group-title="江苏地区",南京少儿
-http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="" group-title="江苏地区",无锡新闻综合
-http://stream.thmz.com/wxtv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="" group-title="江苏地区",无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="" group-title="江苏地区",无锡生活
-http://stream.thmz.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="" group-title="江苏地区",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="" group-title="江苏地区",无锡经济
-http://stream.thmz.com/wxtv5/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
-https://rmplive.hljtv.com/live/haerbin.m3u8
-#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
-https://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="" group-title="黑龙江地区",哈尔滨生活
-https://stream.hrbtv.net/shpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="" group-title="黑龙江地区",哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨资讯" tvg-name="哈尔滨资讯" tvg-logo="" group-title="黑龙江地区",哈尔滨资讯
-https://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐" tvg-logo="" group-title="黑龙江地区",哈尔滨娱乐
-http://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="" group-title="黑龙江地区",哈尔滨影视
-https://stream.hrbtv.net/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="" group-title="黑龙江地区",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="伊春综合" tvg-name="伊春综合" tvg-logo="" group-title="黑龙江地区",伊春综合
-https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-#EXTINF:-1 tvg-id="伊春综合" tvg-name="伊春综合" tvg-logo="" group-title="黑龙江地区",伊春综合
-https://rmplive.hljtv.com/live/yichun.m3u8
-#EXTINF:-1 tvg-id="漠河综合" tvg-name="漠河综合" tvg-logo="" group-title="黑龙江地区",漠河综合
-https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
-#EXTINF:-1 tvg-id="大庆新闻综合" tvg-name="大庆新闻综合" tvg-logo="" group-title="黑龙江地区",大庆新闻综合
-https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
-#EXTINF:-1 tvg-id="东宁综合" tvg-name="东宁综合" tvg-logo="" group-title="黑龙江地区",东宁综合
-https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
-#EXTINF:-1 tvg-id="黑河新闻综合" tvg-name="黑河新闻综合" tvg-logo="" group-title="黑龙江地区",黑河新闻综合
-https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-#EXTINF:-1 tvg-id="鹤岗综合" tvg-name="鹤岗综合" tvg-logo="" group-title="黑龙江地区",鹤岗综合
-https://masterpull.hljtv.com/live/rApKWXbX.m3u8
-#EXTINF:-1 tvg-id="鹤岗综合" tvg-name="鹤岗综合" tvg-logo="" group-title="黑龙江地区",鹤岗综合
-https://rmplive.hljtv.com/live/hegang.m3u8
-#EXTINF:-1 tvg-id="富锦综合" tvg-name="富锦综合" tvg-logo="" group-title="黑龙江地区",富锦综合
-https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
-#EXTINF:-1 tvg-id="尚志电视台" tvg-name="尚志电视台" tvg-logo="" group-title="黑龙江地区",尚志电视台
-https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
-#EXTINF:-1 tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" tvg-logo="" group-title="黑龙江地区",佳木斯新闻综合
-https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
-#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="" group-title="黑龙江地区",齐齐哈尔新闻综合
-https://masterpull.hljtv.com/live/dUi8b96l.m3u8
-#EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="" group-title="黑龙江地区",齐齐哈尔新闻综合
-https://rmplive.hljtv.com/live/qiqihaer.m3u8
-#EXTINF:-1 tvg-id="七台河新闻综合" tvg-name="七台河新闻综合" tvg-logo="" group-title="黑龙江地区",七台河新闻综合
-https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
-#EXTINF:-1 tvg-id="七台河新闻综合" tvg-name="七台河新闻综合" tvg-logo="" group-title="黑龙江地区",七台河新闻综合
-https://rmplive.hljtv.com/live/qitaihe.m3u8
-#EXTINF:-1 tvg-id="勃利综合" tvg-name="勃利综合" tvg-logo="" group-title="黑龙江地区",勃利综合
-https://masterpull.hljtv.com/live/6rx9bifO.m3u8
-#EXTINF:-1 tvg-id="绥化新闻综合" tvg-name="绥化新闻综合" tvg-logo="" group-title="黑龙江地区",绥化新闻综合
-https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
-#EXTINF:-1 tvg-id="绥化新闻综合" tvg-name="绥化新闻综合" tvg-logo="" group-title="黑龙江地区",绥化新闻综合
-https://rmplive.hljtv.com/live/suihua.m3u8
-#EXTINF:-1 tvg-id="安达综合" tvg-name="安达综合" tvg-logo="" group-title="黑龙江地区",安达综合
-https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
-#EXTINF:-1 tvg-id="海伦市综合" tvg-name="海伦市综合" tvg-logo="" group-title="黑龙江地区",海伦市综合
-https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
-#EXTINF:-1 tvg-id="大兴安岭新闻综合" tvg-name="大兴安岭新闻综合" tvg-logo="" group-title="黑龙江地区",大兴安岭新闻综合
-https://masterpull.hljtv.com/live/H2kVyS15.m3u8
-#EXTINF:-1 tvg-id="大兴安岭新闻综合" tvg-name="大兴安岭新闻综合" tvg-logo="" group-title="黑龙江地区",大兴安岭新闻综合
-https://rmplive.hljtv.com/live/daxinganling.m3u8
-#EXTINF:-1 tvg-id="崇仁电视台" tvg-name="崇仁电视台" tvg-logo="" group-title="江西地区",崇仁电视台
-http://play-a2.quklive.com/live/1744277411242065.m3u8
-#EXTINF:-1 tvg-id="崇仁电视台" tvg-name="崇仁电视台" tvg-logo="" group-title="江西地区",崇仁电视台
-http://play-a2.quklive.com/live/1744277411242065.flv
-#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合" tvg-logo="" group-title="江西地区",宁都综合
-http://play-a2.quklive.com/live/1749084198822069.m3u8
-#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合" tvg-logo="" group-title="江西地区",宁都综合
-http://play-a2.quklive.com/live/1749084198822069.flv
-#EXTINF:-1 tvg-id="万载电视台1" tvg-name="万载电视台1" tvg-logo="" group-title="江西地区",万载电视台1
-http://play-a2.quklive.com/live/1739162440932308.m3u8
-#EXTINF:-1 tvg-id="万载电视台1" tvg-name="万载电视台1" tvg-logo="" group-title="江西地区",万载电视台1
-http://play-a2.quklive.com/live/1739162440932308.flv
-#EXTINF:-1 tvg-id="广丰电视台" tvg-name="广丰电视台" tvg-logo="" group-title="江西地区",广丰电视台
-https://play-a2.quklive.com/live/1754033359790055.m3u8
-#EXTINF:-1 tvg-id="广丰电视台" tvg-name="广丰电视台" tvg-logo="" group-title="江西地区",广丰电视台
-https://play-a2.quklive.com/live/1754033359790055.flv
-#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西新闻资讯" tvg-logo="" group-title="陕西地区",陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
-#EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" tvg-logo="" group-title="陕西地区",陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1 tvg-id="陕西银龄" tvg-name="陕西银龄" tvg-logo="" group-title="陕西地区",陕西银龄
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1 tvg-id="陕西秦腔" tvg-name="陕西秦腔" tvg-logo="" group-title="陕西地区",陕西秦腔
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="" group-title="陕西地区",陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="" group-title="陕西地区",农林卫视
-http://gxlive.snrtv.com/nlws-SD.m3u8
-#EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" tvg-logo="" group-title="陕西地区",陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1 tvg-id="保定1" tvg-name="保定1" tvg-logo="" group-title="河北地区",保定1
-http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="保定2" tvg-name="保定2" tvg-logo="" group-title="河北地区",保定2
-http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="保定3" tvg-name="保定3" tvg-logo="" group-title="河北地区",保定3
-http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="邯郸新闻" tvg-name="邯郸新闻" tvg-logo="" group-title="河北地区",邯郸新闻
-https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="邯郸公共" tvg-name="邯郸公共" tvg-logo="" group-title="河北地区",邯郸公共
-https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="邯郸科教" tvg-name="邯郸科教" tvg-logo="" group-title="河北地区",邯郸科教
-https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="兴隆综合" tvg-name="兴隆综合" tvg-logo="" group-title="河北地区",兴隆综合
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="兴隆影视" tvg-name="兴隆影视" tvg-logo="" group-title="河北地区",兴隆影视
-https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="兴隆影视" tvg-name="兴隆影视" tvg-logo="" group-title="河北地区",兴隆影视
-https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="迁西综合" tvg-name="迁西综合" tvg-logo="" group-title="河北地区",迁西综合
-https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="迁西农业" tvg-name="迁西农业" tvg-logo="" group-title="河北地区",迁西农业
-https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="青县综合" tvg-name="青县综合" tvg-logo="" group-title="河北地区",青县综合
-http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="福建地区",海峡卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="济源综合" tvg-name="济源综合" tvg-logo="" group-title="河南地区",济源综合
-http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="" group-title="河南地区",兰考综合
-http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-id="伊川综合" tvg-name="伊川综合" tvg-logo="" group-title="河南地区",伊川综合
-http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
-#EXTINF:-1 tvg-id="长垣综合" tvg-name="长垣综合" tvg-logo="" group-title="河南地区",长垣综合
-http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 tvg-id="开封新闻" tvg-name="开封新闻" tvg-logo="" group-title="河南地区",开封新闻
-http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
-#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="" group-title="河南地区",开封文化旅游
-http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 tvg-id="内黄综合" tvg-name="内黄综合" tvg-logo="" group-title="河南地区",内黄综合
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-id="新县电视台" tvg-name="新县电视台" tvg-logo="" group-title="河南地区",新县电视台
-http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-id="淇县电视台" tvg-name="淇县电视台" tvg-logo="" group-title="河南地区",淇县电视台
-http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 tvg-id="汤阴综合" tvg-name="汤阴综合" tvg-logo="" group-title="河南地区",汤阴综合
-http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 tvg-id="新乡县综合" tvg-name="新乡县综合" tvg-logo="" group-title="河南地区",新乡县综合
-http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 tvg-id="舞钢综合" tvg-name="舞钢综合" tvg-logo="" group-title="河南地区",舞钢综合
-http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 tvg-id="灵宝新闻综合" tvg-name="灵宝新闻综合" tvg-logo="" group-title="河南地区",灵宝新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="" group-title="河南地区",淮滨综合
-http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 tvg-id="光山综合" tvg-name="光山综合" tvg-logo="" group-title="河南地区",光山综合
-http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 tvg-id="滑县TV1" tvg-name="滑县TV1" tvg-logo="" group-title="河南地区",滑县TV1
-http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 tvg-id="滑县TV2" tvg-name="滑县TV2" tvg-logo="" group-title="河南地区",滑县TV2
-http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
-#EXTINF:-1 tvg-id="清丰电视台" tvg-name="清丰电视台" tvg-logo="" group-title="河南地区",清丰电视台
-http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
-#EXTINF:-1 tvg-id="通许综合" tvg-name="通许综合" tvg-logo="" group-title="河南地区",通许综合
-http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 tvg-id="沈丘新闻综合" tvg-name="沈丘新闻综合" tvg-logo="" group-title="河南地区",沈丘新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 tvg-id="桐柏新闻综合" tvg-name="桐柏新闻综合" tvg-logo="" group-title="河南地区",桐柏新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1 tvg-id="夏邑综合" tvg-name="夏邑综合" tvg-logo="" group-title="河南地区",夏邑综合
-http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
-#EXTINF:-1 tvg-id="平兴新闻综合" tvg-name="平兴新闻综合" tvg-logo="" group-title="河南地区",平兴新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 tvg-id="偃师新闻" tvg-name="偃师新闻" tvg-logo="" group-title="河南地区",偃师新闻
-http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-#EXTINF:-1 tvg-id="上街电视台" tvg-name="上街电视台" tvg-logo="" group-title="河南地区",上街电视台
-http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-#EXTINF:-1 tvg-id="沁阳新闻综合" tvg-name="沁阳新闻综合" tvg-logo="" group-title="河南地区",沁阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 tvg-id="项城电视台" tvg-name="项城电视台" tvg-logo="" group-title="河南地区",项城电视台
-http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-id="汝阳新闻综合" tvg-name="汝阳新闻综合" tvg-logo="" group-title="河南地区",汝阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-id="新安新闻综合" tvg-name="新安新闻综合" tvg-logo="" group-title="河南地区",新安新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-id="罗山电视台" tvg-name="罗山电视台" tvg-logo="" group-title="河南地区",罗山电视台
-http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 tvg-id="潢川电视台" tvg-name="潢川电视台" tvg-logo="" group-title="河南地区",潢川电视台
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 tvg-id="上蔡1" tvg-name="上蔡1" tvg-logo="" group-title="河南地区",上蔡1
-http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 tvg-id="荥阳1" tvg-name="荥阳1" tvg-logo="" group-title="河南地区",荥阳1
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 tvg-id="温县融媒" tvg-name="温县融媒" tvg-logo="" group-title="河南地区",温县融媒
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 tvg-id="建安新闻" tvg-name="建安新闻" tvg-logo="" group-title="河南地区",建安新闻
-http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="封丘新闻综合" tvg-name="封丘新闻综合" tvg-logo="" group-title="河南地区",封丘新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 tvg-id="林州电视台" tvg-name="林州电视台" tvg-logo="" group-title="河南地区",林州电视台
-http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 tvg-id="鄢陵综合" tvg-name="鄢陵综合" tvg-logo="" group-title="河南地区",鄢陵综合
-http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 tvg-id="邓州新闻" tvg-name="邓州新闻" tvg-logo="" group-title="河南地区",邓州新闻
-http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 tvg-id="社旗电视台" tvg-name="社旗电视台" tvg-logo="" group-title="河南地区",社旗电视台
-http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-#EXTINF:-1 tvg-id="镇平新闻综合" tvg-name="镇平新闻综合" tvg-logo="" group-title="河南地区",镇平新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 tvg-id="孟州1" tvg-name="孟州1" tvg-logo="" group-title="河南地区",孟州1
-http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 tvg-id="郏县综合" tvg-name="郏县综合" tvg-logo="" group-title="河南地区",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 tvg-id="浚县电视台" tvg-name="浚县电视台" tvg-logo="" group-title="河南地区",浚县电视台
-http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 tvg-id="舞阳新闻综合" tvg-name="舞阳新闻综合" tvg-logo="" group-title="河南地区",舞阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="" group-title="河南地区",渑池新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 tvg-id="武陟新闻综合" tvg-name="武陟新闻综合" tvg-logo="" group-title="河南地区",武陟新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 tvg-id="新郑1" tvg-name="新郑1" tvg-logo="" group-title="河南地区",新郑1
-http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-id="辉县新闻综合" tvg-name="辉县新闻综合" tvg-logo="" group-title="河南地区",辉县新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 tvg-id="永城新闻" tvg-name="永城新闻" tvg-logo="" group-title="河南地区",永城新闻
-http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 tvg-id="禹州综合" tvg-name="禹州综合" tvg-logo="" group-title="河南地区",禹州综合
-http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 tvg-id="杞县新闻综合" tvg-name="杞县新闻综合" tvg-logo="" group-title="河南地区",杞县新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
-#EXTINF:-1 tvg-id="林颖综合" tvg-name="林颖综合" tvg-logo="" group-title="河南地区",林颖综合
-http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-#EXTINF:-1 tvg-id="宝丰1" tvg-name="宝丰1" tvg-logo="" group-title="河南地区",宝丰1
-http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-id="新密新闻频道" tvg-name="新密新闻频道" tvg-logo="" group-title="河南地区",新密新闻频道
-http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="" group-title="甘肃地区",嘉峪关综合
-https://play.kankanlive.com/live/1658978094528926.m3u8
-#EXTINF:-1 tvg-id="嘉峪关公共" tvg-name="嘉峪关公共" tvg-logo="" group-title="甘肃地区",嘉峪关公共
-https://play.kankanlive.com/live/1658978141553927.m3u8
-#EXTINF:-1 tvg-id="金昌综合" tvg-name="金昌综合" tvg-logo="" group-title="甘肃地区",金昌综合
-http://play.kankanlive.com/live/1660096574549900.m3u8
-#EXTINF:-1 tvg-id="金昌综合" tvg-name="金昌综合" tvg-logo="" group-title="甘肃地区",金昌综合
-http://play.kankanlive.com/live/1660096574549900.flv
-#EXTINF:-1 tvg-id="张掖新闻" tvg-name="张掖新闻" tvg-logo="" group-title="甘肃地区",张掖新闻
-http://play.kankanlive.com/live/1675849013180979.m3u8
-#EXTINF:-1 tvg-id="张掖新闻" tvg-name="张掖新闻" tvg-logo="" group-title="甘肃地区",张掖新闻
-http://play.kankanlive.com/live/1675849013180979.flv
-#EXTINF:-1 tvg-id="定西综合" tvg-name="定西综合" tvg-logo="" group-title="甘肃地区",定西综合
-https://play.kankanlive.com/live/1675303871634928.m3u8
-#EXTINF:-1 tvg-id="定西综合" tvg-name="定西综合" tvg-logo="" group-title="甘肃地区",定西综合
-http://play.kankanlive.com/live/1675303871634928.flv
-#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="" group-title="甘肃地区",定西文旅生活
-http://play.kankanlive.com/live/1675303983674929.m3u8
-#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="" group-title="甘肃地区",定西文旅生活
-http://play.kankanlive.com/live/1675303983674929.flv
-#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
-https://play.kankanlive.com/live/1656487214793905.m3u8
-#EXTINF:-1 tvg-id="泰安综合" tvg-name="泰安综合" tvg-logo="" group-title="甘肃地区",泰安综合
-http://play.kankanlive.com/live/1680577080200944.m3u8
-#EXTINF:-1 tvg-id="泰安综合" tvg-name="泰安综合" tvg-logo="" group-title="甘肃地区",泰安综合
-http://play.kankanlive.com/live/1680577080200944.flv
-#EXTINF:-1 tvg-id="静宁新闻综合" tvg-name="静宁新闻综合" tvg-logo="" group-title="甘肃地区",静宁新闻综合
-https://play.kankanlive.com/live/1658194434596952.m3u8
-#EXTINF:-1 tvg-id="景泰电视台" tvg-name="景泰电视台" tvg-logo="" group-title="甘肃地区",景泰电视台
-https://play.kankanlive.com/live/1624439143745981.m3u8
-#EXTINF:-1 tvg-id="西和综合" tvg-name="西和综合" tvg-logo="" group-title="甘肃地区",西和综合
-https://play.kankanlive.com/live/1659926941626981.m3u8
-#EXTINF:-1 tvg-id="古浪综合" tvg-name="古浪综合" tvg-logo="" group-title="甘肃地区",古浪综合
-http://play.kankanlive.com/live/1647934328544907.m3u8
-#EXTINF:-1 tvg-id="古浪综合" tvg-name="古浪综合" tvg-logo="" group-title="甘肃地区",古浪综合
-http://play.kankanlive.com/live/1647934328544907.flv
-#EXTINF:-1 tvg-id="永昌电视台" tvg-name="永昌电视台" tvg-logo="" group-title="甘肃地区",永昌电视台
-https://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 tvg-id="陇西电视台" tvg-name="陇西电视台" tvg-logo="" group-title="甘肃地区",陇西电视台
-https://play.kankanlive.com/live/1669881644081970.m3u8
-#EXTINF:-1 tvg-id="平川电视台" tvg-name="平川电视台" tvg-logo="" group-title="甘肃地区",平川电视台
-http://play.kankanlive.com/live/1658907556249918.m3u8
-#EXTINF:-1 tvg-id="平川电视台" tvg-name="平川电视台" tvg-logo="" group-title="甘肃地区",平川电视台
-http://play.kankanlive.com/live/1658907556249918.flv
-#EXTINF:-1 tvg-id="岷县电视台" tvg-name="岷县电视台" tvg-logo="" group-title="甘肃地区",岷县电视台
-http://play.kankanlive.com/live/1672715401874967.m3u8
-#EXTINF:-1 tvg-id="岷县电视台" tvg-name="岷县电视台" tvg-logo="" group-title="甘肃地区",岷县电视台
-http://play.kankanlive.com/live/1672715401874967.flv
-#EXTINF:-1 tvg-id="庄浪电视台" tvg-name="庄浪电视台" tvg-logo="" group-title="甘肃地区",庄浪电视台
-https://play.kankanlive.com/live/1655107221272926.m3u8
-#EXTINF:-1 tvg-id="金川电视台" tvg-name="金川电视台" tvg-logo="" group-title="甘肃地区",金川电视台
-http://play.kankanlive.com/live/1657360567739997.m3u8
-#EXTINF:-1 tvg-id="金川电视台" tvg-name="金川电视台" tvg-logo="" group-title="甘肃地区",金川电视台
-http://play.kankanlive.com/live/1657360567739997.flv
-#EXTINF:-1 tvg-id="安定电视台" tvg-name="安定电视台" tvg-logo="" group-title="甘肃地区",安定电视台
-https://play.kankanlive.com/live/1672881652415978.m3u8
-#EXTINF:-1 tvg-id="安定电视台" tvg-name="安定电视台" tvg-logo="" group-title="甘肃地区",安定电视台
-http://play.kankanlive.com/live/1672881652415978.flv
-#EXTINF:-1 tvg-id="靖远电视台" tvg-name="靖远电视台" tvg-logo="" group-title="甘肃地区",靖远电视台
-https://play.kankanlive.com/live/1658390970673988.m3u8
-#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
-https://play.kankanlive.com/live/1656487214793905.m3u8
-#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
-http://play.kankanlive.com/live/1656487214793905.m3u8
-#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
-http://play.kankanlive.com/live/1656487214793905.flv
-#EXTINF:-1 tvg-id="靖远电视台" tvg-name="靖远电视台" tvg-logo="" group-title="甘肃地区",靖远电视台
-https://play.kankanlive.com/live/1658390970673988.m3u8
-#EXTINF:-1 tvg-id="通渭电视台" tvg-name="通渭电视台" tvg-logo="" group-title="甘肃地区",通渭电视台
-http://play.kankanlive.com/live/1661761962676984.m3u8
-#EXTINF:-1 tvg-id="通渭电视台" tvg-name="通渭电视台" tvg-logo="" group-title="甘肃地区",通渭电视台
-http://play.kankanlive.com/live/1661761962676984.flv
-#EXTINF:-1 tvg-id="秦安电视台" tvg-name="秦安电视台" tvg-logo="" group-title="甘肃地区",秦安电视台
-https://play.kankanlive.com/live/1680577080200944.m3u8
-#EXTINF:-1 tvg-id="秦安电视台" tvg-name="秦安电视台" tvg-logo="" group-title="甘肃地区",秦安电视台
-http://play.kankanlive.com/live/1680577080200944.flv
-#EXTINF:-1 tvg-id="CCTV1超清" tvg-name="CCTV1超清" tvg-logo="" group-title="超清频道",CCTV1超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601113346&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.178.100.97&SecurityKey=20260601113346&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=7f6606dec6c3030de6a3b5021c1b2281&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780284826014&prlId=4f89b0f1d885527a227fd4a636419cfe1780284826130&jid=4f89b0f1d885527a227fd4a636419cfe1780284823009V&is_advertise=0&sjid=subsession_1780284826481&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6831b1334afc748cc1aa7dc8f35192aa
-#EXTINF:-1 tvg-id="CCTV1超清" tvg-name="CCTV1超清" tvg-logo="" group-title="超清频道",CCTV1超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601112258&Channel_ID=0116_2600037000-99000-200300220107381&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=121.30.193.167&SecurityKey=20260601112258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d05ffaaa24807a5a217986574fab84c0
-#EXTINF:-1 tvg-id="CCTV1超清" tvg-name="CCTV1超清" tvg-logo="" group-title="超清频道",CCTV1超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260601112232&Channel_ID=0116_2600037000-99000-200300220107380&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=121.30.193.216&SecurityKey=20260601112232&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48815d3323ec2acfdefab768b11879fa
-#EXTINF:-1 tvg-id="CCTV2超清" tvg-name="CCTV2超清" tvg-logo="" group-title="超清频道",CCTV2超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260601111200&Channel_ID=0116_2600037000-99000-200300220107365&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=123.235.32.146&SecurityKey=20260601111200&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=045c3d46ada634aec834aef6862fc170
-#EXTINF:-1 tvg-id="CCTV3超清" tvg-name="CCTV3超清" tvg-logo="" group-title="超清频道",CCTV3超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260601112131&Channel_ID=0116_2600037000-99000-200300220107378&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=124.164.172.207&SecurityKey=20260601112131&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f41243d619bc7a9cc77823c88d251d19
-#EXTINF:-1 tvg-id="CCTV4超清" tvg-name="CCTV4超清" tvg-logo="" group-title="超清频道",CCTV4超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20260601112009&Channel_ID=0116_2600037000-99000-200300220107377&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=124.164.172.240&SecurityKey=20260601112009&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7612336fedcbcc0f6d4877a51850c0f8
-#EXTINF:-1 tvg-id="CCTV5超清" tvg-name="CCTV5超清" tvg-logo="" group-title="超清频道",CCTV5超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260601111844&Channel_ID=0116_2600037000-99000-200300220107376&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=124.164.172.141&SecurityKey=20260601111844&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0c3a46467f5456c8ebc57885a515aaef
-#EXTINF:-1 tvg-id="CCTV6超清" tvg-name="CCTV6超清" tvg-logo="" group-title="超清频道",CCTV6超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20260601111818&Channel_ID=0116_2600037000-99000-200300220107375&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=124.164.172.141&SecurityKey=20260601111818&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2f91f8a61b2d1b6cc93af93b0f0f087
-#EXTINF:-1 tvg-id="CCTV7超清" tvg-name="CCTV7超清" tvg-logo="" group-title="超清频道",CCTV7超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083622&pid=2028597139&timestamp=20260601111752&Channel_ID=0116_2600037000-99000-200300220107374&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=61.156.244.170&SecurityKey=20260601111752&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25b6e6bf165fa1a621a842cc99598355
-#EXTINF:-1 tvg-id="CCTV8超清" tvg-name="CCTV8超清" tvg-logo="" group-title="超清频道",CCTV8超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212868&pid=2028597139&timestamp=20260601111719&Channel_ID=0116_2600037000-99000-200300220107373&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=123.235.32.232&SecurityKey=20260601111719&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2e3f9cda15204acc3112cad47ef25f52
-#EXTINF:-1 tvg-id="CCTV9超清" tvg-name="CCTV9超清" tvg-logo="" group-title="超清频道",CCTV9超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083624&pid=2028597139&timestamp=20260601112545&Channel_ID=0116_2600037000-99000-200300220107383&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=221.204.40.80&SecurityKey=20260601112545&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f2894e8e66c4d93f6de57728ca1123e8
-#EXTINF:-1 tvg-id="CCTV10超清" tvg-name="CCTV10超清" tvg-logo="" group-title="超清频道",CCTV10超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212874&pid=2028597139&timestamp=20260601111551&Channel_ID=0116_2600037000-99000-200300220107372&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=123.235.32.196&SecurityKey=20260601111551&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3ad34dc2d99330ed8ee9e3b1baf5d813
-#EXTINF:-1 tvg-id="CCTV11超清" tvg-name="CCTV11超清" tvg-logo="" group-title="超清频道",CCTV11超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500988610&pid=2028597139&timestamp=20260601111516&Channel_ID=0116_2600037000-99000-200300220107371&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=123.235.32.196&SecurityKey=20260601111516&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=959ad88e1201e48977d27f50c6f8d573
-#EXTINF:-1 tvg-id="CCTV12超清" tvg-name="CCTV12超清" tvg-logo="" group-title="超清频道",CCTV12超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083627&pid=2028597139&timestamp=20260601111450&Channel_ID=0116_2600037000-99000-200300220107370&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=123.235.32.196&SecurityKey=20260601111450&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1a2ea066aa94ac8983e89ca9d68f0ac
-#EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260601111306&Channel_ID=0116_2600037000-99000-200300220107367&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=123.235.32.181&SecurityKey=20260601111306&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a01b79ba82af54de03f7d2cbaf6f15bb
-#EXTINF:-1 tvg-id="CCTV14超清" tvg-name="CCTV14超清" tvg-logo="" group-title="超清频道",CCTV14超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20260601111421&Channel_ID=0116_2600037000-99000-200300220107369&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=123.235.32.196&SecurityKey=20260601111421&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba51af8be2fd4d8bee5f75a47b8417ed
-#EXTINF:-1 tvg-id="CCTV15超清" tvg-name="CCTV15超清" tvg-logo="" group-title="超清频道",CCTV15超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260601111355&Channel_ID=0116_2600037000-99000-200300220107368&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=123.235.32.181&SecurityKey=20260601111355&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=84d755cda67c9c20b1f97e8c20b56532
-#EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20260601111226&Channel_ID=0116_2600037000-99000-200300220107366&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=123.235.32.146&SecurityKey=20260601111226&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bc68fecc3343723630e52fd242d7061c
-#EXTINF:-1 tvg-id="CCTV5+超清" tvg-name="CCTV5+超清" tvg-logo="" group-title="超清频道",CCTV5+超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260601112623&Channel_ID=0116_2600037000-99000-200300220107384&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=221.204.40.250&SecurityKey=20260601112623&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14326a6202a64f289047557ae306c694
-#EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="超清频道",湖南卫视超清
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="超清频道",湖南卫视超清
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="超清频道",湖南卫视超清
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 tvg-id="江苏卫视超清" tvg-name="江苏卫视超清" tvg-logo="" group-title="超清频道",江苏卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699067&netType=4&sid=5500199408&pid=2028597139&timestamp=20260601110957&Channel_ID=0116_2600037000-99000-200300220107362&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=123.235.32.160&SecurityKey=20260601110957&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cb0e1da0598112ec61f928f396f40425
-#EXTINF:-1 tvg-id="江苏卫视超清" tvg-name="江苏卫视超清" tvg-logo="" group-title="超清频道",江苏卫视超清
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="北京卫视超清" tvg-name="北京卫视超清" tvg-logo="" group-title="超清频道",北京卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600697&netType=4&sid=5910022306&pid=2028597139&timestamp=20260601111042&Channel_ID=0116_2600037000-99000-200300220107363&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=123.235.32.39&SecurityKey=20260601111042&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=afe197b686648cedbfe7e40d55bcdaaa
-#EXTINF:-1 tvg-id="湖北卫视超清" tvg-name="湖北卫视超清" tvg-logo="" group-title="超清频道",湖北卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910022163&pid=2028597139&timestamp=20260601110829&Channel_ID=0116_2600037000-99000-200300220107360&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=123.235.32.66&SecurityKey=20260601110829&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=277316d2c0082e733ab83b3d58116311
-#EXTINF:-1 tvg-id="广东卫视超清" tvg-name="广东卫视超清" tvg-logo="" group-title="超清频道",广东卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260601111125&Channel_ID=0116_2600037000-99000-200300220107364&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=123.235.32.239&SecurityKey=20260601111125&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0a71f79c2203b2dfcca93fad1a5bb749
-#EXTINF:-1 tvg-id="山东卫视超清" tvg-name="山东卫视超清" tvg-logo="" group-title="超清频道",山东卫视超清
-https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="山东卫视超清" tvg-name="山东卫视超清" tvg-logo="" group-title="超清频道",山东卫视超清
-https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="东方卫视超清" tvg-name="东方卫视超清" tvg-logo="" group-title="超清频道",东方卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600697&netType=4&sid=5910022185&pid=2028597139&timestamp=20260601112519&Channel_ID=0116_2600037000-99000-200300220107382&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=121.30.193.16&SecurityKey=20260601112519&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fc675803b33677e847d3ac1c913d2b0c
-#EXTINF:-1 tvg-id="辽宁卫视超清" tvg-name="辽宁卫视超清" tvg-logo="" group-title="超清频道",辽宁卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600572&netType=4&sid=5910022198&pid=2028597139&timestamp=20260601110801&Channel_ID=0116_2600037000-99000-200300220107359&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=123.235.32.66&SecurityKey=20260601110801&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71bd6beff9e380769fc6bc9608701b0b
-#EXTINF:-1 tvg-id="辽宁卫视超清" tvg-name="辽宁卫视超清" tvg-logo="" group-title="超清频道",辽宁卫视超清
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="东南卫视超清" tvg-name="东南卫视超清" tvg-logo="" group-title="超清频道",东南卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600717&netType=4&sid=5910022182&pid=2028597139&timestamp=20260601120049&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=36.138.127.43&SecurityKey=20260601120049&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c0404a1ac1bacd97dd4f0a3c37a68900&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1780286446715&prlId=4f89b0f1d885527a227fd4a636419cfe1780286446745&jid=4f89b0f1d885527a227fd4a636419cfe1780286445677V&is_advertise=0&sjid=subsession_1780286556398&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13c8630fe3638d1e74d909a6899e08b4
-#EXTINF:-1 tvg-id="东南卫视超清" tvg-name="东南卫视超清" tvg-logo="" group-title="超清频道",东南卫视超清
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="江西卫视超清" tvg-name="江西卫视超清" tvg-logo="" group-title="超清频道",江西卫视超清
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260601110904&Channel_ID=0116_2600037000-99000-200300220107361&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=123.235.32.66&SecurityKey=20260601110904&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38d81bf46cb0b9e7794e763bad8029c0
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="超清频道",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="超清频道",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="超清频道",浙江卫视4K
-http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+央视频道,#genre#
+CCTV1综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ec90v%2BSsCfoa2V4IFvr5P8jcWtOaoAR8NxIotPZ2KFlHT9iftYiqCq8OqltQZXrJKzBv8%2BEC&zy.m3u8
+CCTV2财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3b14maNUnQvXB9EqaMiEqOdc16JWDx%2BTHkGH1VfTBb2rZCKWfAkl90AIthynSXq6EY6OQ5Bu&zy.m3u8
+CCTV3综艺,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1b83zkApQqijuazuP19mAGJR/ML9y06cJCfgxRXB18g7nWeQVHS7GrOy4ycxj/EgmWyeCXC1&zy.m3u8
+CCTV4中文国际,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a330dr7mugHDirfIzLyV2iBhCCNo0NJCDYOtuRfv1Kqv7gNqv24EypKcOFBW18EOaAhONAwA&zy.m3u8
+CCTV5体育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6718f2gX2pyoIPCJYqsQvrhBH4gYObUPBq04RhshH08tWf%2B/pspj9VLOQEcSStnVrAvLyxFc&zy.m3u8
+CCTV5+体育赛事,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c1edmRZmFVz3ALhert1DdHgy2Yug3JRQHJZturZyYIP4fCeZ4jXAnToSwFe7D3UPB88NlurA9Q&zy.m3u8
+CCTV6电影,http://110.42.52.180:6688/livecast/zb.php?token=ZY-318cNjvCkuIK4tbSXWdbPfdDOsBIH6nIh2XO7W9m/KRE3zoHezGEo9HKY7QcFwRCuwA1Ka1E&zy.m3u8
+CCTV7国防军事,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e1b2UcEAGBM1x9Q7KJ5TY/nBb%2B6YC5k7uUwSrzmOnRup06WvOtU/NK0BVehe3TsneOkRQeuw&zy.m3u8
+CCTV8电视剧,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3946GD5pFunSQnfE2Lo3lk/uoihYozdncCsMy/HiqClSZP3pvA1NRsyL3%2BRkLfG3b1lQwR4t&zy.m3u8
+CCTV9纪录,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b376/3GyogqGkQ9NDSPRyRjD2uXpj72dSe7Qw6j0ipY4BnKnDirHvxXkrdzSRTMGmATPrX23&zy.m3u8
+CCTV10科教,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e5c8sAfq/caFSEEcfkzfcgSpLTrzkvSSyp0RF79qCLQG6T2n1YqZGGVm%2BkgNHPOeb0IhC2mWUQ&zy.m3u8
+CCTV11戏曲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b285METGp8uvXPdTI1le82KJB4e91KEV6UuYtJywfUIX1VyxmQJ9OIXAp4KZKS4eDE7MYJDswg&zy.m3u8
+CCTV12社会与法,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e67dKWTbMwpPoJEBj5rp%2B/x/dhIziPJpqpKGvJc%2B6F5xRM0dVORC2hTBzqBAb5CHcPfRRprcBg&zy.m3u8
+CCTV13新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ebbcOzIqA0YX6BMGvvPTBW%2BIynNXYZfuOVJyAQLtO%2B71wvKfUgxhJs7G1R0rmJJJ8gzUgL57fg&zy.m3u8
+CCTV14少儿,http://110.42.52.180:6688/livecast/zb.php?token=ZY-55c2jNhZJL1GsMB/o2WW3w1jaT%2BDIrdCZo0i/Dwj2m3%2BgaNrw4rn%2BiY8kzeGe%2BQfEDBePANYbg&zy.m3u8
+CCTV15音乐,http://110.42.52.180:6688/livecast/zb.php?token=ZY-06a5B2hXc3PyRyg6zG3ktPZT4CBvqKVD876mdkwIpqIOSl2J%2Bmflc9MmkDlAWcAf0CxArrmSeg&zy.m3u8
+CCTV16奥林匹克,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5c13XFVIW/Oqze9HrNiKRilNTQHGvSREj76HG9vPsgeLhOxMp3k055kpa7EwPm9A/ElWGqC7sw&zy.m3u8
+CCTV17农业农村,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d16dbzl7gWlEqvfmcPHJ5HoPwaZ5XnJAV2TSWs5H6DpVpEoz1GD33lbo0/flqjvw9PLbxcs47w&zy.m3u8
+CCTV4欧洲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-71a6D3Uq02ANo9/NNlhO78jfQg6%2BCLGnsHOEGOxr6lnTLK6pH%2BkSFDksHaevsqDV7Wz93ZW4n/U&zy.m3u8
+CCTV4美洲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d3d2pnLocMMJV8/qMW0Ma8Mv4ZAopsPeVPkHIcXaENvezhpEQQ7D48PrxLzU11FudR19i1679RY&zy.m3u8
+CGTN外语记录,http://110.42.52.180:6688/livecast/zb.php?token=ZY-378aEIZ6CnTaL%2BslhJHen4OKMcRWDU2bToFVMYG7Ptymr9Sl5H3Q1l71tWJMJnXNMl3ZE%2BV5FCW8&zy.m3u8
+CGTN阿拉伯语,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7e67I2ffH5kpryshrY/rY5cDn6mc9Y55qrwMsckK4da8jHA1rbk/bGRBBRGRVnHxUtBaI6W6ZNSk&zy.m3u8
+CGTN西班牙语,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4a51YlbU0BKnVnway5M%2BfPTWqqLKd7D%2BpDKxcKp%2B2qCz09Ug/aqks9FyNPub%2B8gEw/AmCf/4OoFx&zy.m3u8
+CGTN法语,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5da3tYHugR35IwxP4P7l28/lux0MVjS1OBminvcRqFTLzR6vdLCCFXWBUk6S8Ny9JELlo%2BhsEA&zy.m3u8
+CGTN俄语,http://110.42.52.180:6688/livecast/zb.php?token=ZY-36d6cJZlBruBF2nNX9PiwSp0OjVXuPuw0TwWJSoO05XGIiJ/n7SGn54XXl9IDJOYSQqFB4JpXA&zy.m3u8
+CGTN,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ee561xJ2JhO68jYc7iN61GpJr15fYqTbD1Em0LZonCy6pdgbGJQMY6Jxf/iGhiLXQnzil1M&zy.m3u8
+CCTV4K,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1684EisVnE4jNOiKWEnk0cjiyWH9b8Usp6iueuSF%2Bu6vHj/rFNJM7OcN64Hs6/wmaomG%2ByRrMQ&zy.m3u8
+CCTV8K,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1c7ckJkSm6ctyv3lf6dOp5oXp1wYAFIF/Qq5Y%2Byy8/B8ddNGPEjISjJUG4X1TcIdqqHwo02fyQ&zy.m3u8
+CCTV风云剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-af48oZr7YaIIkvCo8owYNg5nQNq7A68gMd2m%2BqNebx5JDXxQu8nkWd5UFDzqVuZnLUSkwWxd/lYk8S0&zy.m3u8
+CCTV第一剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4864LA1jHSf5%2B31sGqeJJKBl%2B9s/e3ze5URe46EItcvdA8TtYpoKF6nCEFUZDdulLKARtuFgmjJtLi4&zy.m3u8
+CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlmocfFl5HCJjyYLg0sAVV0CMsP6D8HbumLJ%2B6ZeE2r1nEW0cCdiWRvtWDGZVDGlBQXOVs&zy.m3u8
+卫视频道,#genre#
+浙江卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c734/qic4qyhKtjp6qB7DUfeEWPp7AB/2cY4iPm4CvZDGhctQr4zV9i9tfsdFZTPx5AWmoM&zy.m3u8
+北京卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d9ed4jE8H%2BHl/5tsZkybhDTAC1tK7NhyEmzwTveupu4gGtm32OoFU0W/f8e3yCbjjumiul4&zy.m3u8
+湖南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dfd3Ub7KDgTI18Vn/baXl7JyvhVtqwoHfEaQwOXlViRWwXQjPqV0uX2q3dLmUL8ERe4y0ifQ&zy.m3u8
+江苏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-69c1UiRzTJZ60r6lafn4RpTM3tTvK9cZXk9b1SjEcqCjbAVc6nk09ZpDgUkIBO783URyL4E&zy.m3u8
+东方卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-254eghYE5xArYTOJreQOad0x10V%2BdI5ot8EaJOEtNGffm2sz9ZXrZhlse4zTjt8COUq/zpQ&zy.m3u8
+山东卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3906Da4CMNZGW/rVgAtJrFfULSyhdJYqA072xRaf9nePgcWph5vOFPyHOodJ5b8sTU1JtFo&zy.m3u8
+广东卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7bcePo%2Bt9HduZt%2BIFcb4gL4C%2Bsjqn7tQNaAeXfSjT%2BSOhMVnWXotKdMQjVJILKBpWo3tDmo&zy.m3u8
+江西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-feecIcJI6gk5SQPPu4ARXXwefAGEuTjg2AUUpUuGGAZ0IVsgZftTKu4C8QnLoF3pOfZWxqI&zy.m3u8
+河南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-328e8%2BkfQHpg1x0TLlGrN6Xcfi%2BylilduT9EYveyUvPyYblp9Fjrw9MyFYmwSTx/D1jZAEJ2&zy.m3u8
+湖北卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3d29G0edB19P5mQs8uNV9rC5Dfn1NeSZaqq/91MgfOd6ngotxa/qvrZyKuhN7qRpCr2azx2E&zy.m3u8
+吉林卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ccafn1IOP8XRksPGMX623NXEWhhfZH4770Y/8o2/ZzCEZB1TockX0TXFadNQg4I8j7RgLdc&zy.m3u8
+青海卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fa5edWRv1mTrzI0JLI/PEL1dDRU9FUNsoaVO4/cgQtcZMAWlF7FAu2ZGFp4LXB7dAWgxmeQ&zy.m3u8
+海南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-351aJeg1bYiOyf%2ByOKVa7q1J2Ty0FiGioJarDxcRexMWbAzjFpq0Kgacs9m4EkW7%2B%2BLw0R23%2BA&zy.m3u8
+辽宁卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bb8eUtahM5MPn1uwB0xzafbclYLLjxvonEvdIji1Y4Q31OOCJFM%2BY7jSmuF/tlsdRkbRybE&zy.m3u8
+宁夏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f98b1e9ed7tNenaaHToiPjK6Of8zWXn1BbqJqCGxH8WvXchTQgxJZxlBoHSxFgtbAJ64A1k&zy.m3u8
+重庆卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e85frL8AforJrvI5iE2YcwmZxvy2Cl/kgQHPib8uS35vnJHhjvu40R3Tj/bFMMy5Z0CkPs0&zy.m3u8
+东南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dbca8J6ragkFkG071%2BJv9GROFYeGGOaMVpq1pQoYEIF1ZqFJlgti4487HaXbCWPYrRtGPIE&zy.m3u8
+大湾区卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63c7HwJKKWXuKZcPVVu0wwg7LzlPiOUzR5P6VT/lP4DGVt9aKH9FRpsw7MzstGBUgCYS1fCy&zy.m3u8
+三沙卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ce04iLi4V3cna0KmpVdvrfCqUtIlANjMgnvwbvfVJesLr0FtXnuFQ0uCs4DgTEOOgWk/i38&zy.m3u8
+嘉佳卡通,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a115zIC2mn/CDbTHAifLa74SAT6KfEXmIy7P/dJRS%2Bp821SBr2mlwcE8XGNkz3u7lPzz9Yk&zy.m3u8
+优漫卡通,http://110.42.52.180:6688/livecast/zb.php?token=ZY-021e72Y9TlGrK52MRQF95IHUfAAwJCC85/nMwpaxC86BorupUidHEp0wrTQhJDt7cYPaK7Q&zy.m3u8
+江苏教育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-65ba2hnUQhNJEzsqZmvc9j49psQaEl59lzbYP8a1c26IbBXvlma5QkWc1lVrff80hhPu3Nw&zy.m3u8
+山东教育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4812HQu9DQTYNE1d2X737C3UfUp0k75e7pBnoGPNONa%2BwH2LyMeSM2hUvIlMhqWOJOSZTok&zy.m3u8
+兵团卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9767seRxfoBF3pBBTHGsUl2gpm8KLDCSHqYv8hoUJr699mCNGZq/3it96DHNLI/RjWTANUg&zy.m3u8
+河北卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a5176Vg2W2%2BZoL80oR0jTIpzKOCWOtS0P2aFCzzoL9r8YoGr7zi6v5GZyzB/RgL4CoBO6bkh&zy.m3u8
+黑龙江卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7a99LNvQ1L69xD5pQVKajG8QhboV1dpT/CtHfWOP%2BCw2OBumyrrcCocaGeJaEQ3%2B5Hn040Ml&zy.m3u8
+延边卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e5c0z%2B/X/urtDTh4Q795u9L/B5VHCtrHOmZqdLjEESuVvS2xNggdr6bpoCbQZKiEfsOjt/8&zy.m3u8
+西藏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3d91wUa6Q5tAidVg5wdyI/zho64HIZUDL7Ljj1gjm2pjk4KMy8ly4j3GtJaVdLNjS4fes38&zy.m3u8
+西藏藏语卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2249ND6DhH9dUIWhtjXuqJoOM8ZgMV7c7kcWPye0BRseqBc5QzCLQkM%2B1JcEh0UjVCeIcXM&zy.m3u8
+山西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ecb24KUya33hxriJb9qDFOA%2BcYMzYVLssKRO5Ko01yxmoGl3QZgvlV3ONop%2BHNUHh9U0KBk&zy.m3u8
+陕西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-997e%2BA9U2aQ0F5bb3ySSM7PlIiuf5mFO9hKWZ%2BqpW37eVTDl/9rBUeDSmiRTJxK4BanO0sWNdJ8&zy.m3u8
+农林卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c930v5nLzGm6Fr19eOqh3slFPv6kqzA%2BxwZN7DYJ%2BXVS8fwMwBSkrlOO5oSFvTPosPCK5HI&zy.m3u8
+内蒙古卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2d0dx0avcORNPc5B00QDRu6tFgonxrayeChd5LEpgeTnyY1/ysHum3tZ4bIgjRtlir8FEg0i&zy.m3u8
+内蒙古蒙语卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-338e63z5AYelxtgwPhUGJlRH8xyg2zOAjejYaQ8GceA2Lf4y4P/2hDaR4MsPJAmB/lzn3RsIbA&zy.m3u8
+海峡卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d150ZCnXPH1DThRrJ9ZixOkXf6IgsLbRecFvOizRgJiOl%2BzdWbB6JilnhTjyR0pxPNnVxmU&zy.m3u8
+厦门卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-20abWEdVwGgsEoKzpI9gaaqvNYX6TJvYPJ1ATlSljcDc7tWAD/MUy/RdPlcarEGExB6oOAQ&zy.m3u8
+甘肃卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bce88d4r69OZIM9/RNBidc/h9EvSsJFEGRzH2x0hDFWEhm/8bqRf03QJgm9VW7hdPShiW18&zy.m3u8
+新疆卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-abccvmUghWcp/Y2uKIuVOv7F5DNux0HY3xhBIIA/xivd9TQ3HQpZF76OoWMS4JVTQV1XuJc&zy.m3u8
+云南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ee8egQAvzhq5aeXW8Q9D9Dp3fAAKzhms%2BuUrWdiA9EVSZPCrvlhME9w21HBvWQY4tuWQj4M&zy.m3u8
+深圳卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9093l/BmecR96avS2UyB1bnCtBJBrkI3P5FVh0lDAlqm///wfXNh8x6cdPyT8i2nJ0ARwRg&zy.m3u8
+天津卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-69ddxM2On6242wgIg645Cnxg9IP2eAsosQiZXMzio2iVAIB4LFyXhVRRT8j%2Bbdr0cePlafE&zy.m3u8
+安徽卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-07a4/4SXdhIbSe3rCgEXHpDCQS/TrPHOVB3PFnHgawrDzQaJuWd1387xDRadHO%2BDQWQ1l6c&zy.m3u8
+广西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b43cEto12/Mhz0wiIs5PZ98afTgvDvJwaCEHxuPFoK/GkltPKH4cydzI18sLiq8WLNbm9Tk&zy.m3u8
+四川卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1d97aUeIvgsmYTpVPHyGFMAvhF5Fjxz8%2BRRzmqRy%2BVMlg/%2B2qUGjguOsle1EJ8JdgX5WTMs&zy.m3u8
+贵州卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a889%2B%2BtLQ%2BmYvQvctibBM5s2bLz2sxXFKK1lnR2laHysDKnkyM4HkJCxwFh2JJTZTol9B2Y&zy.m3u8
+青海安多卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3eb62s1U594RkyX%2BD4BTyp9%2BLjZp7vh8Y6D2sOLz0hhVmMFT5aVY%2BqEgoXpeZlByrcWuPIuiEQ&zy.m3u8
+附加地方频道,#genre#
+浙江钱江,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3282SgOwfh3Z12aeLQ6Qq8f4/FohaxiR2Gt8xRlxIOKBNO3PJVZzOjcWgDsqQWGliR5DEN8&zy.m3u8
+浙江经济生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bcbdGebc8srpsgQsqR7hclJaH8xR3VE4Q4fuOgd3QgeEK/levNx6uVuW0DbZiJIqAa29vigonw&zy.m3u8
+浙江教科影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2e51R2YUbW%2BL6THZW0eDsYq1ZEiaFOWXrTfKKRqmlwhJzJj82t1QskXA4p0WrQ9GBa3jHCFpBw&zy.m3u8
+浙江民生休闲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7218JhzMMJUy44nKIOKmslooJ9idhZJVbOJ3mCqHOuKiKxJlUGBn3clZOiIkHbqgTpoaWnvEmw&zy.m3u8
+浙江新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5393NW575h1HDhXbMIoU8uM45jITNXnzWCZ3W1FJGADKrOF4JHcSgE/BmKtNBlesAKQ8odo&zy.m3u8
+浙江少儿,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e09d4t0803hDo9vRl3llZob9HVsdjG6iI49Ame30ARkgKe7kq%2B9kw28zX7nQkXOQQ%2Bbes2M&zy.m3u8
+浙江国际,http://110.42.52.180:6688/livecast/zb.php?token=ZY-55eaXSmwFPwZZfAsdeJj3UJZZp3RPZvSm0HOf26PEqf8IQysSGvybn1YHsxX9pZx3Jc2N3M&zy.m3u8
+浙江好易购,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6d2akd%2BXiF2g%2BlD0vOr4ryC/yGbHwGIHV907z9H%2BjneENRYTgvSa3jNRTbboKG%2B7Aju94yuQ&zy.m3u8
+浙江之江纪录,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f705DMWBsmHivDAIq9zrBBFVK15hlE1fj7OHdgQu01eKglX5Qvh/r3vRUy2%2ByBBK9XZVZ5oVGQ&zy.m3u8
+
+北京文艺,http://110.42.52.180:6688/livecast/zb.php?token=ZY-549eN5ZVOd%2BIW3y8wqZbETUx2bYPQeRcoKcPH4at2J9q1n8%2BXv1Xf9KIR0Foo6qHbbNqxQY&zy.m3u8
+纪实科教,http://110.42.52.180:6688/livecast/zb.php?token=ZY-44c148n8h7HptsVO5rqVXq36H0az0IZ3jJ4SPk8P0Gsbb8M8D9S4nVo7lWiOIg4mCnCTzIw&zy.m3u8
+北京影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-32c3YwbDb5rnGeDFP6%2Btcj7zOFVd5Qh8SMHkcl7QTFHvjh0JsvJfnVCT2hdCRmwIlTcxZuk&zy.m3u8
+北京财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6ccauaY7nTFa6B1VQD/yFrNc52c9JzunvqrZzdZz2biz6YKRdswQA59hsqaD1PRrLuY0G0Y&zy.m3u8
+北京体育休闲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-881fowVYEA9kqgyj%2BYEDonOIiNRmsxA3iH4eXO0%2BelWPvJCzVzHCd8eDK8Bp248Ml4IP9jg&zy.m3u8
+北京生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a948m1T90OQbzCHjNec9vt1yB5i8aNtrAExWMDdiw69TTXTr0c8zXTc7MeDZbCN4C5el0gw&zy.m3u8
+北京新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d48afIf7KxLuKmUF8AqiQlLOx6Pz09skTulvyGQAivow8Som8vuSvi/vN8H3oQDZs2%2BRuRc&zy.m3u8
+卡酷少儿,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cfda2Eu1%2BjJvRps31zi9fo3hBXuSLXI8L4yw%2B%2BrYMhmmbM0o0zbVm75iYzNU9jtrLpqlhj0&zy.m3u8
+
+湖南经视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e45cMjqB%2Bpmw4YqVZiabm2r4URJJrk/FcUCBQE8lGfGSB6vysNnaPIs5YnJQgzCZ4BvDbztL&zy.m3u8
+金鹰卡通,http://110.42.52.180:6688/livecast/zb.php?token=ZY-91d05QZOnsr/C2TXdIpNDXD/wQqaZ4dKGd43aaHT/64TWiaLpjrcB3WDmwdRCPQwuatHrdg&zy.m3u8
+金鹰纪实,http://110.42.52.180:6688/livecast/zb.php?token=ZY-062aCcoJs2N22eURHSCuTJoF%2Bkn%2Bspsjhv8D1%2B7Rezj8lyYjgxCo88HkaRb%2Bcsfq4eH49ng&zy.m3u8
+快乐垂钓,http://110.42.52.180:6688/livecast/zb.php?token=ZY-928bVeP/Rq5%2BWnWqlSI9LsX03Ztdgpo%2BuB2QzWVWyP0KdzVmaUIemiXYTJZWvpp7K1u07Gk&zy.m3u8
+先锋乒羽,http://110.42.52.180:6688/livecast/zb.php?token=ZY-385bbQerLmQxaEEndvRjzOtIy6g3XWMC2vK7MxPOfB1mme/wfee2soIwflYo0/vaAxzUgv0&zy.m3u8
+湖南都市,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b61eyJ0WcLon5GEMLKtz/7sYKKM4y7lECSdbEqTBPrbJxfEoPnUfRTSc2N5ux926KToT0j%2BQ&zy.m3u8
+湖南电视剧,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cc68%2B6p5u0d0BMNc8z098St3I0iG3t0j2dF9rPR6QgY252pZed6SjE2KIZuWKNoyp5VBQACj&zy.m3u8
+湖南公共,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8112jnyigrwvBnQXngNTIIjGJRGIwQbxFCeEK5I0XBOw8cL9dtx8AwUg3MRT39KksJCCOBGX&zy.m3u8
+湖南国际,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a0caLPPQB5sHQaKbNDpyrkUllKhbHVoRSBBIG0%2BEvu1tc6ld8LC1Wg92BwEONyQ14vP2cpAc&zy.m3u8
+湖南娱乐,http://110.42.52.180:6688/livecast/zb.php?token=ZY-708ecByOSvIyvTeREzgm82tRbRbBfac7mcpwQb92NAsO/SGTIt0%2B7Qel1YKN2rsd7fL10jJ0&zy.m3u8
+湖南快乐购,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4005fEyO75jOrnRWfpkOVB2yoGr7iJF6LvADm/VrKoYnn0E74UKebfDI73z66WP4yTrOkQ&zy.m3u8
+湖南茶频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6530NPF9NcRLpJsM8tlj/OIAa2Dmj5I25zF8okBxynd088/1JZWlvn3U/8mvxCPuvVsnBA&zy.m3u8
+湖南电影,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5a2eVu4mkwV/e1YPHMz6%2Bu4Q6//2DxU8BAwFJbTei9RVYdzsFAm9uVWUdSlvOEE49vv2V1U&zy.m3u8
+长沙新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1843TDcj92P2psMkYO7WKgQTE6kvu7Zy6F14FPqMAnh5WVN8GR0FoHdBR1QZxGjCya0EicE&zy.m3u8
+长沙政法,http://110.42.52.180:6688/livecast/zb.php?token=ZY-afc3Z/1//r90y71OpaIocnk7T9zeyyzvBlUjO4AeVX/Tj2YpW2%2Bs6pe9ygk0UVQoMqCYDwk&zy.m3u8
+长沙女性,http://110.42.52.180:6688/livecast/zb.php?token=ZY-377e9JR5dHVJaocsLj8%2BihYhJn5fdIZFGg5t2wVaO7oeWDfebX5vs0qeVZuImWn/z16C3IU&zy.m3u8
+CETV1,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a131%2B1qMtstWGGfQPxyD7sN5FlHDjAAre5UQoWIvXenoT2N2JM9q/aGsDlXXm6TPDz3bFjP8&zy.m3u8
+CETV2,http://110.42.52.180:6688/livecast/zb.php?token=ZY-34d3OYKeuesCmPVKFOQa5a%2B16BZJ/8WAyPAGDQUmrs7o3nCrznCB0uX8je9QUCEREo7KR%2B3a&zy.m3u8
+CETV4,http://110.42.52.180:6688/livecast/zb.php?token=ZY-18b16z4SXzcELNkhVxpI8095qokyZtEl1q03b5FPzhNFPKGptY3DrAWOZRleAdmlF16I4dXv&zy.m3u8
+
+上海新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-df459fusWVWvEpOFD8OUypNtsvwjOvE8owlfN8b51/F3On/pA%2Bj8yOd70d6yifFrqyXwe8wAlQ&zy.m3u8
+上海新纪实,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f070PCeoE1gEgVqNzyLw9ugLdB9XkWIkenWQktwyZYDujLnM/q0TXGCI0kXyqK5UvhVlSne5&zy.m3u8
+上海魔都眼,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a8ddC10PrI6lTJMrBN4HwaUdoo/kGlqrNax%2BLnxUwBhguj90k9p0bTFt0xHZPRD2QKFWrH8Z&zy.m3u8
+上海第一财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ff70Y8XZGPuVuTNjhVdhIxyKujEzFrOsFjjOtuF6zPtUULL8MDbMPSxA6qNyJm8YC4cqThCsGA&zy.m3u8
+上海都市频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3664N/E5zhYehBqs7pQT/fePdvRIhSwgNZFzOqgLdQwGob44uuiuyOXkHEAFNnCaOsPulOv85A&zy.m3u8
+上海五星体育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f1deoGq4XrQYnhng8%2BAr1P38AFeGFPWEx52tiy7XkpXyXYoc3tC/q2glnlAXoZEknM9051bhRg&zy.m3u8
+东方财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-46cb3jjIsYG07QV0%2BB3lvft/Yb6s7%2BaCYw3D6SxTX/il8Wj8MC1xUyXONifRkUCn2bQlAtg&zy.m3u8
+上海生活时尚,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c9a7o%2Bby530gbgmqOTun1qYW6/VFgGSm93B3krPbjSr8B3Ag6MPc5LBJA4QNn9ieyHPiT9k&zy.m3u8
+金色学堂,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f7d4N9oLZMJw19PGKWqqZzg61yEPJ3aW0lKOmOfINtmAgBy6t7hZKbknBTeCcTfKuAPz0WQ&zy.m3u8
+上海教育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2b6bXN2NSBuy7syJNY2alkeevEZuvbfx9gy2F%2B6AYniLAV/QdKhkBbquzdMWqwhQTDMJLSE&zy.m3u8
+游戏风云,http://110.42.52.180:6688/livecast/zb.php?token=ZY-af9e6g3S8BISFE9EA406FY01uptSmxwyd6ePfzb6SZt0/dh4B/XrRFm/xPpXzreJc32Mc7w&zy.m3u8
+法治天地,http://110.42.52.180:6688/livecast/zb.php?token=ZY-32f4cr0ptrqZuJg0F3PvwnGgJNdzbpX5fOLJVP224pprop/m3Xz8ypJT6U2ih77hxQTe/oM&zy.m3u8
+上视东方影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b1510EABJ/Yw8HqrrDsMmHm2bqjI5mC%2B3/XJSxghx/EzQokyzyRZ7BFm52pokIg3hEdGjFt/4g&zy.m3u8
+
+山西经济,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9d61zcXZBcKWJQnkFlnWNPdcW5F10OTbMbuoOyEL8KtMGW3jaeIh2zmPo3JDTMWlQ0brVow&zy.m3u8
+山西影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0b56dyRvzZt4n1n9KwN51Tfg2n9QJKwRXuG3XwwAHbHrfCayBEzaeaOD9x1RZvZ8A2CaqAw&zy.m3u8
+山西社会与法治,http://110.42.52.180:6688/livecast/zb.php?token=ZY-097fdi/thoL/lY4bxAxjRqXjzBhw7mKTUt87wsNzS03mitXPRaA8pkM8an1UHNIRxARdE2s&zy.m3u8
+山西文体生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b300LY0w9VE8SLndO9lfCWihDixUW0mUQzZA3jUpQWmo1KsGi6SRhhRRpfGpeA0bZTrmQeQ&zy.m3u8
+山西黄河,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0ae0rS1ZWxM3rlGzlx9kRFJw7nueHXMMFetlFXHbvpUSRLNcgQ6YDN9z3%2BJG3PsWqHilSrY&zy.m3u8
+太原新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0ff9XMz%2Bi4F1ZNZm5DIMPVQkf8LlcxDdb%2B2bqcGNHDUxmKSuLeUPgMgD3wtLxKABZiCJOPFJzHJh&zy.m3u8
+阳泉新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-554b1DbW%2BUXxnblDnJttLzEkjB4VIPtKlWBi4jB9FF4v8Ycgxh8TUFbBJQhXMuV%2BifHKs%2BXpcnpK&zy.m3u8
+长治新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f224jC3o0F6AFmGGdf8xdWMSFIuwCPgkmRK4lpQhroB0w7uPM9Ni6VeJEWJhxIF6YJLt%2BdM/9KDk&zy.m3u8
+晋城新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-76f5fF%2B7ZyFqTXL/UM%2BVSXdjH8yi8Fj0GHC9qqAelEB/i2e7IbrUtN3YbvKJXvcI%2BGLpa9U4YVyy&zy.m3u8
+朔州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b023HTQtV7%2BlSWYXd7zRRTKCkdoZgoP0slBWYCJLDRo69tFdd0de%2BSBAcxjO3ZTmEVDhFe1a5TVD&zy.m3u8
+晋中新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2d4aa9wUmTnfp1%2BEajBApEftBNwP8LTRbjzRLg6qOBnG6ePNFpm/iImjPEsH0G63KX3x3zzjVBt7&zy.m3u8
+运城新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-394aTx95yHhwFOzTGMxOooCvO%2B52pD6nbnq8UZcoAQg9ltdBNEK4Ma7B5HlOBKfnqzilwD8smNVa&zy.m3u8
+忻州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d6e2xd3U9gd6aiGi3txQT%2B0IndvGzRE0cKBgJPWkr9ABGF2b3/2xvrKJ0w3WiMKWqQjtlmS9QQ&zy.m3u8
+临汾新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9717mvPKSB/KOquCgIZ9zN3parkXpNduhd8NTYggooUC5ofhkjXRcv%2BcakUjvWBiLWSyroyUm2Lg&zy.m3u8
+吕梁新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-55c0PElMG5POXlacNxG9lJnhpjzywV5lSs9xIz4t/fsWcDxwaSbtnapJ3DknyMPxx45rg0Vlz9Xj&zy.m3u8
+太原经济生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b6cdyuN/ymwtSSt5MLwgRX%2BtoQK0KMMmdbSVSL7MyB/clH6r8QmSdc7YlKZ1MejDmEJM15eRQg&zy.m3u8
+太原社教法制,http://110.42.52.180:6688/livecast/zb.php?token=ZY-44d5kN8ZMOMHGkOy%2BQy%2Bv3YZlUngTLZ8fianin2T6Q0pXdha0DXJAihA8jEkzD%2BZq92rirSwQg&zy.m3u8
+太原影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3fa3h8aXsk88Kmz7k0nxCkT01BmY%2BCFAXi9IKhoTCkVPNn727CtbbSjZq0Px6Pk2Ls84zNEZFQ&zy.m3u8
+太原文体,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8f0c47aAJ71jR7pDKwmFpZTmNAnxnxXTJ8shBsUd9LwbYgO30rYtKTFpEdjx74BWPCNclV53GA&zy.m3u8
+太原佰乐购,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a81dqstLqVdVSBqp9tqGsjTRikTat3O/GTMA79G9sdL4ZY/KKNkkZ38ci8WICnNRm9kvtrSc&zy.m3u8
+太原城市,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dd8aYbg8boYcL784As6LpbMFBBbElCKdEjejTaeekzff92Abm2L2vnNB4KHelwtdhmjag/ROoQ&zy.m3u8
+太原教育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1d0eXos18t67TvMpMkaqKsyQFeCqm058qpYFDe1JhGlUJBTnY/HaqiLdDu8XV/fv5sSbql5%2ByA&zy.m3u8
+大同新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b3d6wBJa%2BEBoPVQj4VIGvqFeGtyUSksO85rbOChTurWA7OeTIvN%2B7dY%2BwHNHgt/x1vjk%2BRQvmg&zy.m3u8
+大同公共频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6660Wb25vwQ17Fhkks/%2BWleeQtlxN9Sh9itQunhqjvfImcdQTNmSUN4y7BTL%2BsQEEN1gSkygiVA&zy.m3u8
+大同煤都生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7e47QK50JcjDqEmWOyVG5Mf7TUT5oMHxR6aLx7Ln2ZAARxUBC6HW6zX2/CJj5NImA7DAAZKNXA&zy.m3u8
+
+陕西新闻资讯,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e82fxsVP/QJJyIt31d5dwHn7b%2BHn%2BJ3YH3nydkWy0QhIysFt63Dgr1Z7e72t98Kcy5%2BuOP8&zy.m3u8
+陕西都市青春,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6b5dOmsOr5PAZrkGs2wCD6pvJUIwIn997PqCuBWl0BIBIKUENGFiGPx0LGNlltuzaWFJIyM&zy.m3u8
+银龄频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d723PiAXfPFaW7v6tKEceGDJa5SiHqsv87V9L78rfBnrhMZywG%2BgxynCtcCnwuBoOEaTwsg&zy.m3u8
+秦腔频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c550RTdueaXpsLCHhGEMlTbXdAUgQHPFiFa6//4%2BAez6JAABqbU2UTRNgdrs0VxZQ09EMQ0&zy.m3u8
+乐家购物,http://110.42.52.180:6688/livecast/zb.php?token=ZY-198dRi/TsekSBeu9rO5kpZRDuvphzuGAAtBpiVNXrBOUZ8MM2U6AdRuW%2BDXJWs678eBf5ro&zy.m3u8
+移动电视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9ad1Zg2qvUP5jW6dHSt88BbA/9GCJDR2E8ZQOfiI3pRD4RLHyq6d3HDD3W6rWMMX3hQq2lo&zy.m3u8
+陕西银龄频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f296wjOvihcmo0bcHN0C0H0ht01F7onYNAY1U2CcSU8gBZfyM9bUFIz26qCjm0BjVxTbObocow&zy.m3u8
+陕西都市青春频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2ee5suOATLhzR3gZzSb4lDHgm7tPNuIpQdiZ5nz0Z1AWhZhMEeGKVUFB%2BMcMdqx1qpKfMfmQhuHi&zy.m3u8
+陕西秦腔频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3028y4Cyk6J9YWNnN1VUi5XAi8/2x9wokT3SIF7gW2vwSszLrYIUmDyq9f6u7V9G8hL%2B2CDEEQ&zy.m3u8
+陕西新闻资讯频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e2fa0loPi0MrU7ehF6jeoCQ2wk4clNV%2BPY/0RlRO34yiYvaH8i48R90Ju7lGafbs1wP%2By6OSP%2Bxu&zy.m3u8
+陕西体育休闲频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-81274q7ZZnZ/CPxiubVSqByQ5Go/CuAszGLRDhAivrpZt1CUIKutmwNN4x2DW%2BTPPW38n8VTr9/h&zy.m3u8
+
+甘肃文化影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-05e34R9Rbb4c1VJTMYWT12el2CSPfrBpy58XTw0e51ck%2B9AVYmMFfETp9n/zdd4N1o4zcDjFtQ&zy.m3u8
+甘肃公共应急,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3664N/E5zhYehBqs7ZNBr/ONfaweiHsmaMMkOfkLdQwGob44uui60%2BbwFU4FNnCaOsPulOv85w&zy.m3u8
+甘肃少儿频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-79b5BW8G8KP4PLBFW8olbDPtPrzklPGwc4htLIVtxOiehesooWZa19wJN7UzXBxC5z9tmQ6igg&zy.m3u8
+甘肃科教频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f3c1TQ3vk9xPtnYVuMB%2BWdQrDRmL5iwwY786xss3iufDIgBNx3YcpEx8fozL4dcDFCiCZmwuXw&zy.m3u8
+甘肃移动电视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-def9WlGfPiXk4bLdY4mpc0x4he1xIsFuOeJ7JRgUU6maNQM%2BKhi41usr3HAU4aNrGbVesHswGg&zy.m3u8
+甘肃证券服务,http://110.42.52.180:6688/livecast/zb.php?token=ZY-aeccpV1NnH8DTBASqkauA2bncElaUVOLD9zTM5F%2BRGKUDZX2P7dRGp65SlGXwxpzQ1V6NwG5Rw&zy.m3u8
+
+耿马综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a1a8bqBXqQ0dDn0KV6ombrBGUwFnbBGramD6z/fAIRj8sR02cjcOFWeapt0ugH87DbimSJI&zy.m3u8
+龙陵综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b683RMumxGik4r9/OCZhX5aHpdWrf1c1rkZW8Ze7Q%2B9JklM2vT6Y623GF/PDST3hF%2BLMv7A&zy.m3u8
+隆阳综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-173ckd68jEV9lg9EBPN%2BXUUSC1MiylTV70aNUOVmc0HaO%2BHiuBx1ydvYNUmytazhAJiEovo&zy.m3u8
+玉溪新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0846ZEJy1ojqEyvJ/%2Bn6r7rBgmTjBUJ7lrAFeGHrFmJqogk73U0gPOqLq4f2nqDyWkvYT24&zy.m3u8
+玉溪社会与法,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8a75H9RA0D8mXeEeAlyRYmAP3135qTrBN%2B5RqtnQyGB%2B70wiCdiWGzAghb9G6I9bKt/BM8U&zy.m3u8
+文山综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3b5dz1PbkvSkiwXkimkVry4Z2mydRMsU2e45ulXnJ4wE/LYU%2Bd6NQJ1rMcOpuvLHX5mKXCfNEg&zy.m3u8
+红河综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5fb3aKmSC1ivJMd3e0faUW2P9YB8BAeTN4MickrVULIfx2zH1I1AjsCY3%2Bjcu8jzBEmHEq3X9w&zy.m3u8
+临沧新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9d62qNloyOI4ZIJP1Jm97YckYglAbA92vsIjII5rhDdGOMExIX4OlLPczvyTupejPWy0J5UnQKaV&zy.m3u8
+大理新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fe67EKwhYbbStNBBYJ4iHzWwhf40M3SkDCy4TG3d0Mx4sflFstHOms4IPFgoQ2rJRS7O5OkKMFy2&zy.m3u8
+楚雄新闻频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0668eG2138tzZVL6wxK78vovS3FwSWBDJFVYNXw3lc7VG09z00bsd8o7ZfNOAb11FVlqIx2NCrC6&zy.m3u8
+怒江新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b632jFOxY98/3wtnuGHY4u2dagDVOVZ0JplIKVbPLaKztL%2BnN8qj/XYY6GxLr0tcs6HF3zrmCNes&zy.m3u8
+保山综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-87d3I9Uj33prLf6WNWVHrNUSZfJC5pwJlMj/HaDyZi7zqIgC8o%2By/Lp1aGCJDl3JJarrpai9Bw&zy.m3u8
+曲靖综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c6d2NHB8L1cfJQFTrDPW97A5m1gx6R3feHU4e0q9kKXEpMt9JNIT9JLXFbSLiNOYGwQ3qZUJ9w&zy.m3u8
+西双版纳新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3507zZwRgA/WNonZAjqWBIs2nuGuu18tbEgwsyRxdF8NSgWplHpCLiyE3yQAOLbQGoM1iKdo8U%2B7rhU&zy.m3u8
+
+云南都市频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d91exVXsEWucM4i7PxzXJnAdm1rVLtiCk4JbFNDK3kW2cbtGl455617XIj1Ur5HeQZXwwpGDOQ&zy.m3u8
+云南康旅频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b5d91ll7K%2BVBc6rbzrtHaahuCtnHiHOpD7D0A6bf4TMd%2Buu6hv7o7caPzcKnJDPNNXoDbnOQ2Q&zy.m3u8
+云南娱乐频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-55379HqTujTxIYUFVc8kHeJe/OeqQ3ZbH3Iooge3BgBWjsl5oKEMJFMcsuu/1oAAp%2BNrob9DRA&zy.m3u8
+保山一套频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dc38qoclPOswi0OJyQ/%2BqNR7yh8xHk9MI01xnacXUdJJ9DwRh013d1c4SsDlZqQo%2BxCkizG5XA&zy.m3u8
+洱源综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-19aezwYMaXuxYBOsyXhXRFpCC8zaoj4fGmhZBAvcqoLdceJOitGVzwX3QDse5N0RG38TsjZFSQ&zy.m3u8
+巍山综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f0d2UJgaYQWdevjxsZl3g/Q6JW2jH8p5t0nteY5L85OmlNWrnxeDu%2BnkaH3vM%2BtNa8bhCg3AGg&zy.m3u8
+云龙综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6034pmsKmC8mOpRKRYD%2BBngbpOVGlz3lTLJ4nWA91c0260inATxC4yDEiqMH/Lz4xc/pNGGMMg&zy.m3u8
+陆良电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cd062dEUk/yU%2BaL7yXbwue1zVFA8BegrIPeqkvDOY9WBErj9LHbQMH2am0o0MkBzfCEUxl%2B2&zy.m3u8
+红河新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-25acqe/af7M9Rk4Lu3wjTSP77RNwL2Ygt9TfMINfh3hUjancFZ0hlMiACSrS%2B0lIr8lJuL2Ang&zy.m3u8
+临沧一套,http://110.42.52.180:6688/livecast/zb.php?token=ZY-47eep6X26xsFMa9H4SZEyNT4z/Xe4GDAhXXffOxCa4ic8d/Obi4DhX/43aYY39RYLeT7FDk&zy.m3u8
+临沧二套,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fab0GGNObgiMG/62Y6xi5bKDdPNM4XQtAltvuHRMUU5pTsQ9lUgUTtwrZtHq6Me3t6o8fQI&zy.m3u8
+福贡综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bc22rQhxZOimXpefZC06fr4J1C5lx0EcJiBI%2B7Alpi61ql4xfIEaNdwx8EDiZn2bOH2hJ8dtVw&zy.m3u8
+贡山综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-42315gA80SuxaZ/tSsUEjbm%2BIjDhEh9LFEVjna2hlumO1UgbSdhVD1B8gO3qVyeI/cVohnc9og&zy.m3u8
+沪水综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-204e%2Bj7BDDPYP0PhcXtlkq%2BnzurUs8LKWQotDjoJfscW3UZmENvYDMeVlg/okP9F%2BOBVumY7pQ&zy.m3u8
+易门综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-aa6aM4L/PhaOKeeDoy4SQ1j%2BD0%2BSNtpT29dZU5bi3LDo1Cmvq%2Beq7YP6BNiglh5bqHpJVhJSaA&zy.m3u8
+绿春综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1685%2Blh2wYCQjoYCiy6EPJdheLs0Mm2aPHHKI5Fwcsc2TOukkCPA3zzor/mQBRjGpci5HPDxzA&zy.m3u8
+丘北电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0a23XKouYrI25ZzxHNSTwzTJLopXiun3jTOTv753jBSqk4gKsOdGNsbNM4PgMdK82C/RGuXz&zy.m3u8
+昆明教育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-178aCENLd2rMJMei4269xLTx5ARWfAnSIRhr%2BqDTk%2BsxJC2EotK4ecACuWPLDaCgqPyiexo&zy.m3u8
+普洱1台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-af70ThnI4IXUnCIc1nlne6VLyhNrnpwj2pyYfJXu//Vqjvt7R%2Bcuykj2hMQcibyrtubbubM&zy.m3u8
+清廉曲靖,http://110.42.52.180:6688/livecast/zb.php?token=ZY-da176H99lIEkZaVM8WgvZjD5lT5zU%2BW5ZTUVaImJFUww/ZSCPdV0VFWMHUHcDZqlFtPqaWs&zy.m3u8
+麻栗坡电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1651ccvbIGVG3Fb0ZCCp4/jref4uu4tpvguaxhZQYqrBccTA/aum9bQOv6MymqFPbRpmS%2BwR2g&zy.m3u8
+西双版纳文化旅游,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c09an1r58GYk9oR8/3iumXnZPuXwBVNBeNYuzOBovwZzkJYsBh/I89FKGGT3WUuoFUl0cQUDrLqP&zy.m3u8
+绥江电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1c45/4RiYsPHG4I0/W7oXoZlraZeWk3IBoUaLvRSs%2BD8UoT0si5idbXaoeZ4mVLkWNyPzpUqMa0&zy.m3u8
+迪庆综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7f828qd3QFnS4zoecxF29bMRN8a2XxWSMqQzHFrXSlX%2BrZiiCffoT19cAoPQ7adcdWiieMowNg&zy.m3u8
+迪庆藏语频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1fedwy/h8mNaYCsWbwIF3AMWibWcMeFje2kKRXEsK3dTAw1KA4TlPNYqyuE9R0q8cy%2BT6suAEA&zy.m3u8
+
+河南都市,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6e1dtCG3UgF/EAacmIM47PhfIpCdjDXMsG7do%2BsJ%2BqGz2SwgA0q8zFuaQUwHxHEfCZc3UOg&zy.m3u8
+河南民生,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7b3d5Iimr08w65kUlqTANc7O%2BlK5OUAmngbBQZ4x8zJkyQlJhqonFyBIRoseNiSZlq%2B2JUE&zy.m3u8
+河南法治,http://110.42.52.180:6688/livecast/zb.php?token=ZY-73a0gB07oq06zejT8H8Ftag87Bvx%2BxESotS3mXp4kzjpkka/xgbYF17Ro5XdvsaHlh29yYw&zy.m3u8
+河南电视剧,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5eccD4ewG%2BSJImTDry8kmmxgy9IGIj7HWufigPqFkN2IzCyGuyHr5ENoTVAsmsui0JmiQHhe&zy.m3u8
+河南新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fae1nsA2yMOdbuyGaI22MdlrDECJgseijEU/qX95sYvkDodRaiBVrhBHCqpd3kBI6mknk%2BQ&zy.m3u8
+欢腾购物,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b29fwpk40Q9rWKYrRwJW4PrOV%2BeTJaXdwAsGA2Y0BtsGwVWvGfkU%2BCihTe9nk0%2BEgbdLTXk&zy.m3u8
+河南公共,http://110.42.52.180:6688/livecast/zb.php?token=ZY-95455BbZINjvpTu6lf9RH%2BQJIAepOvZ8UmiVVt31xzXOZVLGbAmqxGFYeMYCVC0syzjQKRc&zy.m3u8
+河南乡村,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3563n0h/zovS0WUgjG3/HzqPi%2B0LQV0KiV6wiHSiTKvfikyHh6zNj1k4htdAZY70WQAYuHk&zy.m3u8
+河南国际,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0b7bgiuk2lwwpXSUIKNKzFugsplAxuZMHgndaoJAk2oI7gqMxaU4g/IwKCc6oaRIWmMPOeM&zy.m3u8
+河南梨园,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7690j8f/pI959ZnrQWC%2BfTQiYOBy7l51XThHponBdZ%2BbIwMrfa4pTB/Yv9gNBy4/hyB/pzU&zy.m3u8
+文物宝库,http://110.42.52.180:6688/livecast/zb.php?token=ZY-39354KH7FKhyuPSvY7bYqkvkSKmefjEtds3aIUIDiMh6ecLNuqE6rO00coUtAr5/Mr72p1k&zy.m3u8
+武术世界,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e6d9LYxzJS2LqOUOsuNyfRpYPqlSht/uXlkg%2BrOQxa/uBhXHvPKUJ2WKYRYXWVs4ToTGFVI&zy.m3u8
+晴彩中原,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7ed9bbKrF89dnYHTJ%2B7OGYPadHf2TLErrR1hUjKP%2BPAmrjMCRHh0cTidyiMMvRV0Ac3yuTI&zy.m3u8
+移动戏曲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5641cx%2BmEFcFhG33hRW1/ykVcbH%2BsVYlHfik8h1W77Cm9ni%2Bzpdzs68f%2BE8WTVht5%2B9AEQo&zy.m3u8
+象视界,http://110.42.52.180:6688/livecast/zb.php?token=ZY-575fo91TyYdQFy0C8WWG6hJzrH3SrHxNDHliYyChPoEM2nRPGGMpqScWSFpfswWv/thyog&zy.m3u8
+国学频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-eaa5fH15lsEXRIea9x7VZdSU7I75seUvDluOqegaP1BMqAkPA5oVqHCaiSDxveVfpWHSgy4&zy.m3u8
+郑州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e550zudtmvN%2BXVhcc8StK4OawQx4qsh/iH3lY5bWGcqcRct2a8Ct26KJScOfes/1lz1Y9j7VDQ&zy.m3u8
+开封新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ffccrC71WMxhhk51sCn6jrS/CYailCzCbP8%2BXzbNli5E5onacSMjUJDAhL8hu02lQua5FMBfOA&zy.m3u8
+洛阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2517HW74UUwe5Qk1nGnJaQpXt1%2BrvqnxEnAExQBEEkcEvdG43o6wR1hrRKUkndgUFcBmVss3IA&zy.m3u8
+平顶山新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-08341B0ovC/ObPWhG6pg%2BX14/WlEsRSBZQi8LITAb4g4RV89U%2BdYqM/5YVj1PY2aqycNN0syl3w&zy.m3u8
+安阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-361ai5Sw/9x1z%2BYFJFS3TZtDu6kQbsKBIMOAl5If5uCoryag0gUZPawZtWPZnDA0en7gbROKOQ&zy.m3u8
+鹤壁新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9003YYAXUJPTlzYEkLRH2b/ZD5kalKw53sSawPgKVaDPFu2C9v9VurdUCd3tQ/fpDj8hAcQd9g&zy.m3u8
+新乡新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6899usCsXQ1ztm48L71X6A4%2BLgzRXewerOKlsgD1LagQrTSHQOnJHp6RY88LzKvuePtxDso0AQ&zy.m3u8
+焦作新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-14cennbB8NUyN/lQnYisgAOrLFZwS7h9S76Yi%2BVeuIfaj5CIgf%2BeN6zD%2B3CbVLfamUyZ4YeHSw&zy.m3u8
+濮阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-77185yVMLRHEZr4JZXi36tbvbeH5uek6MMKOtb20lZqZ1hOunD%2B/2sZWPdu%2B3znm/8qBFXYVGA&zy.m3u8
+许昌新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3c294DU0RMCxLW6e1Icq05H%2BOZhVFKs8h/PobseH2t5V5QZgGvAYPDOrzydznNdy3PiPRX2TGw&zy.m3u8
+漯河新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-aab4yCCe4WYeJDYjXRqmxJFB1RNi8j8mcEyjpunb4iaL7wGU56jePPpGhSKzXaKuN5CWfYCQYw&zy.m3u8
+三门峡新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4548Nk7Y7NseUJuD/WDQ3loiV1yMXUdiZyNrg7a7BvHFJlkYjov4i/QaamSlDgfgyXaxEbmw5VU&zy.m3u8
+南阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-34eagqUYQVlEd1%2B6hfLpGMJf4UDIC8iL%2BW1FN0hTP75c/wzAz9yYTBsqXB2AHllXw7391mahwA&zy.m3u8
+商丘新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e62aHTeju/OSLQnJxYksNhRj4D2Ycj1QgzrwEuxDKAcoV4APMTxwaaCXNBRxN6RO3kT8zx%2B/jw&zy.m3u8
+信阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fb1a0HMELeK0SDwuduCYpazghUNl3fJ78jbBdpi3u5DBwX6iOkExB9Wo1IUuxhJZqERvqgAILw&zy.m3u8
+周口新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-824djnk8MF4ujBQJU5P1KX%2Bbehp%2BCTa%2BPWClybVT5Ipnsyo4hiLG7VT/YBKlKwugyRmM6YFDJQ&zy.m3u8
+驻马店新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4f63yf0I3diEQ3ogQyLTkfIZDNHM2aPCr/sBuFQQggJzGiZOCEdC3QkN6mNkjLtXMCUV3xho/HY&zy.m3u8
+济源新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d8f75oZ6S8YPqsECqJryVtY9nDvTm/KzJ234wmRPy46WjC0We%2B0ulPsg4HKTsuDwtcHfGIPmnQ&zy.m3u8
+
+
+新疆维语新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-abe6dA08BsXXj0RSEb9/MN1NPA5qO4to6wzvhTTj5GAfcoviDIQGb6YD4C5PQuRnzZUR32bZlw&zy.m3u8
+新疆哈语新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2daaxw9pWXWxL1oEhM5jCJU27uOCZXf62h90Rxbe4diOrkD5VB7Tupg%2BbYDrh6bi6EdtYAkPfA&zy.m3u8
+新疆综艺,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4235llyKjToMRgG0bPLZ%2BfJhCSfpXwF%2BXHSm8Gkm880Z8gbe8p9aX3wPZ0BwSzW4Nj17J5Y&zy.m3u8
+新疆维语影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7935jZ8O4PDTHkffyJl6dke2XeC7m3Dn3WMTQnIU1jlub5rREGTjjaSyY5E9kNs87IuZJg6kvQ&zy.m3u8
+新疆经济生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5670rmCKcC9lkrSNQGv8xtdZPQ4j8Rq84KdO2QiAkF8Iba1pa3Ls5w2Euq2wZRMe6HTjPaP/4A&zy.m3u8
+新疆哈语综艺,http://110.42.52.180:6688/livecast/zb.php?token=ZY-126dEsztXFzMLn5BGIYNN7USMYfgCPeE81ecBYZ%2BsDx9v94wOShJ38c2kUPeYrwgEVkYN0WXxg&zy.m3u8
+新疆维语经济生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cf68Wv9PhiHrDaAlzQpljtWnRdH5agyhtcm7u35wdorhab7JYJxyvPfdl98MFsVcrFVy/mW6ow&zy.m3u8
+新疆体育健康,http://110.42.52.180:6688/livecast/zb.php?token=ZY-08004KEWWXArvxdZzsx4xZq0S412s7DYxBi%2BEUIuq3n3W%2B0pQ1aOvGkQIXL3z78SQOUTpks&zy.m3u8
+新疆信息服务,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ddafzhlFTIVWYhF9DDU4JUsZz3Hxmflznv5Ezd0k/R/lBAVcSRybS0FWvQ/dZYKJCqKQE/%2Bktg&zy.m3u8
+新疆少儿频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dfactTbdpD1Lw2Vz1DQ1yDCtPCHaqRGVbvzJI8Jafy8WUcNGMspOLaOc2qBmR/A0chzP0Js&zy.m3u8
+
+
+吉林都市频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4dc9MfQn%2BsNZN3TwshMmPg5geLFapC4l8/fkmhyMTSxGjbqxkRQJ6c3FiOUeizm814ayyUDHZw&zy.m3u8
+吉林生活频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7358Kr6ap9DgM4u2ymkn4Gx4VzPcBx26iVaZQhf9%2BtLMgEy1K6a13HPXg29cPrQbucf3R8wOiA&zy.m3u8
+吉林影视频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e4f3ABwS4HV%2B9T6rzCp2TKtlvwQHXaUA6/lwewNaUNvqrsKXLy8VsQn%2B3BaZsAc6HqjBN6HJ2g&zy.m3u8
+吉林乡村频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-59ddpLVJ1spkPhydm6mqTsjwM7Li7CWSXgkBDoBlK5PMFkNTcaozKYHCc8K/wMfYxHw%2BrwUnMg&zy.m3u8
+吉林综艺文化频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-90f4DUsFiiHtm4/sacoF3zpKB7FPmg0HNjDJri1FVV89pynjqNp/gIEBVtGhBZap3M11YO6aMpP4&zy.m3u8
+松原新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-eba9aTCLwg2Dh/3n16c93MME5CAoq2iPIOisO1edzhf2qUQL6pYjpyec1rPtJKh15ZvbDdY&zy.m3u8
+长春综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e1aeTQpj1rrYefGTWbo6wc3/lFIFet/6X9X2mjU%2BJmFAS/6GcoDqtcyA5M0jyyvdDFK2bgLsvQ&zy.m3u8
+吉林新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d277ECxijTgmNT96Bahk2Idey7OgH%2BCgW%2B0Qfv0khJeBgpVzx5zcIuwoS1iP2Buz6LbaBH5GQl2S&zy.m3u8
+四平新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-db85GU/DL%2B3R/ez1zW2NshMKxYZO8AP0dxttv%2B7GCueb6LdwmQ8q3F9kqPZeoOhkXKIXsrIBnQa1&zy.m3u8
+辽源新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-992dLcOO6s6abeCIvniHzK0G7sFtLaujJ5VkDxEXlyzYEgxNIxPemWNDJ0/iFH/5z9nFdB74ZgpB&zy.m3u8
+白城新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-492alAo44%2BaCJS8txGYptZfx6YvZebmj4hJ6l%2Bzqc1uTidPRjnWgl3nfJkvSQQO/uCA2%2BcFIitBP&zy.m3u8
+通化新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7f3fu4PICH1LI8yTgQYLm6JiFhLlRan8xnyZovPIUo9vt11o0rhoeiQMXBaYqMcKHGZfFEa8vXtX&zy.m3u8
+白山新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c633TpBUxjEiC0gb53nQj6J9uq6ZngHPafu769bP%2BPBmmlr8RvtTp8CtxBTcS3ldQU0ftXO720J3&zy.m3u8
+
+黑龙江文体频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1ed6/XxIMUO/RBIJ5SUGsx8RjpEXnv9JcQU5ZKPNFcm%2Bgora1uELMqDy8mCgVplvp3YNY1LYpto&zy.m3u8
+黑龙江影视频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a3fa1iKJag2FkgcNzqms9i17se4gZfxqREB9wEyJoAg2PUsgERP9sc4N2DkEMGd8IMgzpHHctEA&zy.m3u8
+黑龙江新闻法治频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-018aPS6iHKubGwrM1T10qPU4Hc615JdcquLaaWzqB7vnK7eSoxRrGY2Ny5ABgojrRx%2BakEAt8OLG1Q&zy.m3u8
+黑龙江都市频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d573zoQTuy8NVL58nm78yEXsumsLWM/z%2B2DZjJSjxB/K49y8vqO5DvhZ/8isuHban93ANM%2BVgyU&zy.m3u8
+黑龙江农业・科教频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2b7eLY/9DX7/SQJn6uRzJ56p9tP%2B91dYpPztRpWc7YmKzFU%2B1Z%2BoZvdSZFA2srKK/cndCpg0f6Ubzg&zy.m3u8
+齐齐哈尔新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7278sGtGr/0ifB2qD6OgwVSD4mDPmAeIFJicz1CZpNQ2%2B2Ujf0kZAzMerCwoNq%2BJQKpj6Duy9wLUXIY&zy.m3u8
+鹤岗新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e1ebhElvah5CEGpPsE7ib/yTnPv7dA77s6fX3IBVDeJTbY4wwksBqELDEWdKZgs6eQD0VkLSx/fD&zy.m3u8
+黑河新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-478faiq%2BPLGzOomM%2BPo46e96mX6ZHfsia5hs9%2BycmrF9/niAiURHXL31gQzF1xHYGLwNDrsYahw/&zy.m3u8
+大兴安岭新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e907S5mkuN/U4l3SsjZb0Jwjc46zNGGE7aGOGqWA7lCjdJAROfBWNZvs3DaSe8MVQXKdeyKJeHzVDYY&zy.m3u8
+
+山东新闻频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-03d89xuEusL1Eq%2BP82cqDfV42u5vbeA9VuJVqsF9DRVR08Jcai2IWw4RiUwnaoatboVCMfNhUA&zy.m3u8
+山东齐鲁频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9e62FmYYqGVpBm0PFFfbh7tEu16wPMndO4nN7qUsb9OM4GcfIKo5r2hpxbbr58mwQbOb363/xg&zy.m3u8
+山东体育休闲频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b9caWhetJGjBPlsJupg/WHsxVdov8wM%2BPcCS8sx/ec3T0IeUxdTZ%2BsTd16BCdwd6i0OtgzaUEQ&zy.m3u8
+山东生活频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c642cK1mA7m3vw1UWSnVIJqEn/mCRcUl%2BHud3Xf1COyPf/8op8thWO2cCoWB1bSMgPonjE88OQ&zy.m3u8
+山东综艺频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-30f6XPoxFSDSbWJO1wvm0W7qf8jk53Fm0JLrRx00AUhmZIhL1QtFZpQE2cDQkLjaMjYNlsuvSQ&zy.m3u8
+山东文旅频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8392L4OUAj2Eumgl3RsVba2%2BSuOZHB7v4LJ/CIGPcICPl/x9Hzrvu2YlA%2BrXzrK4rt0530buEQ&zy.m3u8
+山东农科频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3a00t0rJ8R1EhZk%2BcvMpiTZdo7nNF/o7t0chQSxNJTirPieRXnOTttsxogPse6RSwZ%2B8ioHOJg&zy.m3u8
+山东少儿频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-628bEn0A7dFOa1b9uHsPly5aYQxKx3XD8K/Sg8Hsz/%2BDhIl9%2BaOynesWnYfNb5Af6wKe0Xm44Q&zy.m3u8
+济南电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6fdbi2uXHiZo11swpltjVXkkg7s6NgW8eSrov4mZruJweWaaL6aDMEWiTG8HknVMGsBn//wr&zy.m3u8
+淄博电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2d81ltYCk29tdsTvwDpbjNxEfpH2jjy4r5pjd2IFsNXo1B4FuLD9LETpyy44wC4wYI8WkuK4&zy.m3u8
+枣庄电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-195cG4f9plfj/VJVfAJsGw5%2BUHKSmimkZ3rgnj4FMImQb%2BW44DPDn5L5s6l9Apndbi/1386y&zy.m3u8
+东营电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7490l3tSjZKUXCjjRI2AcXbDNwH8G8zMQtg0X7wY4Wp01jp%2Bv8cG6HnuLyRHsboHSgM4eR%2Bj&zy.m3u8
+烟台电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b8a4TB7LSHYi8x5zfdtA47pMzo26lPmS2SHkK7ePQNvFeUrXSYhvvbpDngQqGD8yqmIPitPH&zy.m3u8
+潍坊电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d909kCqkAqssXOk2KeHpRKrdaOGtnM4WlcqpGhIuKerdkVVUtClqaIxHbrr%2B02VHXsS1jQ%2B4&zy.m3u8
+泰安电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bdd5MtwsZiaisAuxkLddD6EyOGxMRlSHVupHvYy2rliwlnNKqW/3Z/HXAX5geHCt8Uoo3fgf&zy.m3u8
+威海电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e5c5/yCpuSSe639TZ3Vxya4bEWnkDo2dv%2B66XunH%2B4C5kDW34rNwiRfalPfKNRbG7PK5zp4k&zy.m3u8
+日照电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a667SHkykV2F%2BkKhWHCtoDh0ck/IQXklTvRVDJxX7MyadWNxHYxJsl5XepVd/43/IGa/dYxi&zy.m3u8
+临沂电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6b0fcVU4SgkP0R6GnSJCCjwD24cM9Lckd%2BfCyW3diz0bFdvniKUIP0OK3UWx8EwmhYp3R0X7&zy.m3u8
+德州电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2520C4gGwnfAHhmhLfBTm%2Bdqz5V0trXMxGKGo1l0WTFww/nNNCKBUMSjReVabudure86q2LZ&zy.m3u8
+聊城电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ac4dla90lERs88cgEC/7cftTqrn18vel2UaNb0phGb9Y3FpugKVCinmWAON7BFWW/VZGWoBM&zy.m3u8
+滨州电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5d0eXQpl7lFxsm%2BEooLx5wGb8Qm6Zpgk07DDJqWZlkunQ6pj6Q%2BIDGxqR47MCTqAhYxkLOeC&zy.m3u8
+菏泽电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ee83ckslWJsUPfTP/BeuuGbgRBm1tGhgr2ZwMGjgt2df3k%2BDWtTMn2cpcsApsA7Ll/IIR0Rh&zy.m3u8
+济南都市,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4025cytbw%2BPtrYAWaxlaiPCKBhNFotJ9amDnCqdX91pF87L9GESSjDwuHYYnvgS/LwlDHP8xxA&zy.m3u8
+济南文旅体育,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ae60Y41FsTkxPCyuIDYh6V73vMGxavAUybQDUGctfCepFqGx%2BUN2LFBrELsRLjhO3M88d654Ag&zy.m3u8
+济南生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a682UHESTgCu0DpLWKVof1htU0O399LIyqEwIlKf3Uduz5Mo1L0Gipoa5juHJchtzhgNx2BIBg&zy.m3u8
+济南少儿,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4070YdC7QFNoBLSRpdTX00Sb9ce6EMP4I7z7nXb8jHundPDkmvnmcjaZpJEDVvszI22G27ggFQ&zy.m3u8
+济南鲁中,http://110.42.52.180:6688/livecast/zb.php?token=ZY-26804UME4MnmPqrC4P3RXNeTd8R4fRELWL8qMagkXFYxtF1khizNvvBCympdRNd3FwbSjlEhqw&zy.m3u8
+
+
+江苏综艺频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a5d7p2DvR2%2Bm7Ji%2BRVdnYgIvYuDaV7MVCTz/Joz4CEe6b0JcqUkg84diniXYVAba0wMvP%2BU&zy.m3u8
+江苏城市频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-193c77UqFl0fW%2BSW0lcww2MQXEoUAtlH9yL8sGOFKzSrC2fprMCYZxHEtrKOM9wiEwzMrQk&zy.m3u8
+江苏国际,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cf35C478e1BY3nchfQdZr9jCE4vCnAakq5D6CPPcfFFa2kZ1420tCapkt12tkPgHFyc7RMU&zy.m3u8
+江苏影视频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6f63pbIYnIOe9LgYTlG1SbnPgjD1QZigS5ap1z7MJHYlxZERrTectzTkZiTQDWoZC3cUBNY&zy.m3u8
+江苏公共新闻频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6757qIac7jRtXTCkcQPwIz0yLg4uURBcZGfIjteg/nF6vTNEmtrvo5kbcNPd6dsOdChyYt4&zy.m3u8
+江苏财富天下,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ef32uJ0fquB33izaW4RUuUajRK9ta4x1fRyl3neOR3QYtDR7CjLEIP5QJJ6J1IWn8ONjviY&zy.m3u8
+江苏体育休闲频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-944d1HExyJPO1Q8X4R%2B1fOpApgFY68Vr026UNrd5RYC8QWPk7XJ0AfWaCb9QCGVGEt4Gjgo&zy.m3u8
+无锡新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0de31QMn6kEtxhMvw3fENzv24rTAa7LQN2Q9dOBGoIsKViHOu5pXYweAukiUMh0fS8PIcFd%2Byg&zy.m3u8
+无锡娱乐,http://110.42.52.180:6688/livecast/zb.php?token=ZY-babdM06IWQu1vT3rF/SgW//HmIr/VsfTIb2zd5sdOE1wfKc/AnoVR61gWrKjbtwiKrYDQK8&zy.m3u8
+无锡都市资讯,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3dd5ER9Ri/1Q4T9TI1oQpSGaYOG2Ox8I/Da6H1XwRCekxOZvWGzHvQao8R6fVqKJxZvmdQkr%2BQ&zy.m3u8
+无锡生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6a88trCvjK2ziOxusUy2IO5jCPzJU2ovAgIpAAVkDndWH/DgmlZNwSk4lz19eaLQurIAaaU&zy.m3u8
+无锡经济,http://110.42.52.180:6688/livecast/zb.php?token=ZY-69a9pJ3JtTStJqPqqaIUj8WnTaHQNazyjC8ejuxOeMJqre8eZN47b7pLZnNniiK%2BcwFR40A&zy.m3u8
+盐城新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f749LQMvTAP9mzdV5t3p4aTI%2BgLiwxlgCZ2DUwPDhTzQNtkLh%2B3uC5gLmS2TctpKzosn%2BYfovw&zy.m3u8
+淮安新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d92fVIZ1v30ll7H%2Biq1zvGXuBkuahkUcCwXWu%2Btm0mitgHRct8E2IANd/OkJyoWnEJxf4Cg7qw&zy.m3u8
+泰州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d87cIxUdaUyHx68o5hh5SNVUnp1RMMESiftzM%2B%2BhV45hc2VQpkQNT/a7grCzhqNbbled%2BHhHaw&zy.m3u8
+连云港新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-816f6xH4Ga/E6ipv%2BO4AHP9JIC6U9bFV4iicfgzej7o4NDAox5vhTefgWzUU%2BqymW8VDahNortE&zy.m3u8
+宿迁新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e4b9y4WiQTrSQ1/37eYsGh0ZhcUStvinFBbIzY19t7WyX2AH5j4OIhvh8dEF%2BjVnJRBVPD2NFw&zy.m3u8
+徐州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d7f4tndKFTDBHB%2Bf3rLQAFNlwhG1GAVqQ0zQk8TMNOBv/fpKieJgMSfoLSKHF5e/2069%2BMJymA&zy.m3u8
+江阴新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4c47XzAQ%2BB4THryZPcpVauAqP1USsDTvY1zNTuXf3fgUlY9fH1W1GYZ%2BgCRjcRiVkrgOaqcMkA&zy.m3u8
+南通新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b006hq3pWW5tMxWUsP10%2BraIxIeDfDdtnHpEW3LFlhaF1lKVk4DVRJ%2BToPj/1%2BFE2GvInCV2FA&zy.m3u8
+宜兴新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-872f50q%2BWNeCH6JMrb49FCLOTmZu0N54Q1XNscF9gJUAzxjX7zFAq0kVme7OzBCCAiwSthkrDg&zy.m3u8
+溧水新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ef14A8H8xAOGQ9VKYnw757e64fs2P%2BNRcUiB%2B3kJWBF%2BC4FmV%2Bw7i3YgkSVTrUhySxmti6Dqiw&zy.m3u8
+南京新闻综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f8dcOH4Vsy87UjUjGSUYlPxA9A3P7V5L9vUQLeAZ0CODrIcmC17yKi94dfPnLK4Pbttcg69WgOOi&zy.m3u8
+南京教科频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bf69u5ij9El/c32pNPY22cjDRi4R%2BYB8hHVKlpvHbTVaLuy8Nya4Ndc5yyDvY62DVU5nE63Q9A&zy.m3u8
+南京十八频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9d90BGOny51v%2Bo0q/lEXn%2BT09otd9tGaelCqCfqy%2B7GMcHIY4nyr4aejl1JmQOg5EfrYsV7C7g&zy.m3u8
+
+
+成都新闻频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f7f44oCAgqybL1i02fHE7YW91cdrVXMYHJkhxVQuQ1Ls7EoMivmqqPq8XQytGcDZtEsKMoJx&zy.m3u8
+成都经济频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-24f0abfpnFu1nBAsD09WLrSznMR1%2B7y4i4ZCnPR81KDbn9htUoaoDwEoob1RQTOTjOmIxjzQ&zy.m3u8
+成都生活频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-86dewCK5CEpQTDxp7obqhckt2k4PoJONCIakvhknBtluRH53dy1QZFHgQyumol4pu%2BEASVDu&zy.m3u8
+成都影视频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-546aVOsGgPHrJCdgS/WV8u4T84vpPPUtaxuRxza5OGKBf4ehyevs2s7aWGd2hAwhoILHNovp&zy.m3u8
+成都公共频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6e68rOpsjmTPWNYzWkfsM6nbx7XYeKTR9HPp4J3jOHzJhnhyHdUPcWq3zFN%2B8PlYgBEwY3T%2B&zy.m3u8
+成都少儿频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d453/xYF95VOp5HlhIh1FDh16S/3kKA8xgPHZH2ZZrH5IDv3TIWdPuW0TNXAv36O4/NKTLR%2B&zy.m3u8
+成都蓉城先锋,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0c2f2LG6%2B0jCT1ZidQtax7j/xXjIuU47qjYtMR0MQfcWecdXoEasiXLhKYkrCTjh88gRxIjDoA&zy.m3u8
+成华有线电视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8cff5XrqywTWKzCN0otwR9gPxmB5clPuEsp7Fy43Ia64rbDUezxUeYer2U72TJ8Nq5mQnqA&zy.m3u8
+大邑电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e1c1WhETdxyKfiS6TAt0vulLkK4b7mNPeT63gPuyYmkyrbGEgtmYkyqNazksJE0%2B%2BuFw1Cw&zy.m3u8
+高新电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5f74HE%2BSEa6Ecm3ox6WyQqhbV1QUmCsEEwXkM5VhWXoCabrjyhei8S5RoCpGciX/YjEJH3M&zy.m3u8
+锦江电视台http://110.42.52.180:6688/live/live.php?token=TOKEN&id=jjtv
+金牛电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c8716WSYstbDHvhccTuZSQ80eXUef5lefLFOmS/p7/2lOxvWsZIKNW49KPErzVhNtr3YrdQ&zy.m3u8
+金堂电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1928WL/hPIWncXCeTTqO5B9Ugo%2BdBmO2Vb2wnq5fQKCEgEOY5TsLCMO5ZjgOsYiCf4CxQYo&zy.m3u8
+简阳新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4fe3YRoPBpzRGiSuL6Lib%2B1ir2wuIX82AfUCtDbV6vR4FsEcKAgEOH4N8AZQFCkaaUvihr%2B2fg&zy.m3u8
+郫都新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0511Twqn9LaOKjeEHBwHxqI/KMzaJEEyHg77EMPtoP9PcSDHK938NlEYyf%2B49MaOojgwkNJojg&zy.m3u8
+浦江电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4f04e24ZPXGpwrh/RqsE8tbA%2B8sFPgZz2RRhnGrM0ekPLC1mQWFcjHxv0Datw4GiC84kjcI&zy.m3u8
+彭州电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3071Gs11Df4pxK7XE6MPcUvxuISshuev0DP%2BtwjasJPK6iP05BWPswxdS56YxKT9kDUlQjE&zy.m3u8
+青白江电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cd25D6zjnzE0EjUgt6eemvlGhN1vLslUUxUMgOa%2B3B9azOLyR9hv2yc84oASwmzw0Y25oYa4&zy.m3u8
+邛崃电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5af6IODVobWWV/ifa9nZt3faZAv3Y37UMIFYo0Uf9mGVFwHbNNGQELAlGjZSrwEWrg3JIm0&zy.m3u8
+青羊电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4e80CtviS0Zv75%2BIkJVs/HlhBpvz0IK9adywWx5K3Sjr6Ha7XOxb%2Bq9/y40Wq4HgJRSkRSg&zy.m3u8
+双流综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1c04KKB6ZbqsDxsFVAbEaI3e2KXESXf6LaUxIdUQepb2t6B/z8EssicxI68Wyjk30J8/1vE&zy.m3u8
+武侯电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8c717d/%2BwK4TMDCAyy3lDrCkjMXAG%2BRYDz4NqBasXrOpw7DtwLCjNDdEc/dho%2BZSXNsc3Rs&zy.m3u8
+温江电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6d32RFeM3pjrtjtg2xdBWDnnI%2BA4oUnA4PPd3gKnuuT4C3dZV9pEPfhuATvpXQFM8oJgyCQ&zy.m3u8
+新都电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0d2d5gVxy60GWWdJrwGjxw3/BIQIass0xoV/VD13q1Hpv5NzNXZnOParOkuCI893DJ0Cx7k&zy.m3u8
+绵阳江油新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a39de3BlKO6hL2PAsT69MsPSuJ5nHRoc2OITJHHsTCw7VsiR6/PPAFapOAOEiPeA3cIhyqZhCQ&zy.m3u8
+绵阳北川综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f347sqe8A0LnGfnwL0xZQSp1iG%2BWX2cKjXw/Dt16mSm8eRv4MXWmCX8tO8X4Q0eJ9jQGy0E5kA&zy.m3u8
+绵阳盐亭综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-10b7Sg%2BeG0hw418Jq%2B31UujDRbImheNH5vNcfVASmPNKSxc9b1/0ys6SjpCXt6LUk2s1EPbCgQ&zy.m3u8
+绵阳梓潼综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3062c7ee9aN8dsFyoompDji8Etn4djkPQmM49d1KK7q6Cv1/Bocr7sch1V2J9vjOo/0PUol2Ug&zy.m3u8
+阿坝新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0c4dwc2plK%2BiY58WPO21KwDJ936K09Luc7zcVGybMMSReBVC56zX6Y2iHee9DDguCOja74Bz5w&zy.m3u8
+阿坝藏语综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1399FT3cdXXyxHwihM1T2KpZvHUmW3yCA01Lskze1z4Xno2ey6YfgimwKJ0yL4DTADdQFbrPrQ&zy.m3u8
+阿坝若尔盖综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6e260PzFUPh9AQHewa9Z73Lq6ZvwEqln2qM0ft9dCTZS%2BNjFH34Qj2I4ofqUhvP66l/vp7Ur7Og&zy.m3u8
+内江东兴新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ce649SxfhAA%2BktdU93E7vO2e2Nll2n0bMyb8BiIc/kBr/V2Nkhq%2BOrj4Ao0cRptvkC3I/IUI%2BA&zy.m3u8
+内江资中综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-24ffAztEQDXb57PfDHcFGbgrjnpGLv6PmuNG8hBWHyStW%2BPaZb6exbFMqNlme3A%2BzKTiOFsDPQ&zy.m3u8
+德阳广汉综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6b398Nin/i4DezYfRacDM%2BJebfsgjWnNAuCvFEEGt1ol1uvml4JbD0PvBpzqxC6SnkxC%2BbvFmg&zy.m3u8
+凉山甘洛综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5d25iOkrL1eTsZmkxuNzRpVTvTNktxPxMIGswXg3AqX6aOw/tZvTg1mv903FiK783XmdUHktmw&zy.m3u8
+凉山冕宁电视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8d87XF13mgcfQnPI2dfPAjoqfptZPtyYPK1d0vMogHlNtiljWOofQNtT%2BFfkftnsW2uqC3stRQ&zy.m3u8
+广安邻水综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a4c0sviTZ96xZt2cGfkXp2EGOkFnKhHc12VuSVYANy8ELtiOIFoJamET/RuLdi3J4BILvT63kw&zy.m3u8
+广安武胜综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d46ajHX%2Bwhpi7AYeZdXbAuUFagAryT44RD7CHxOxEVrqL6IXiHB8/Oh/h4Xpc0%2B4j6v0B6tSDA&zy.m3u8
+眉山丹棱综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c860gxYbaXz8CxEAkb4AyGncip19fhvQbcX/mYWKKbwQZ/4GGGF1XbVuMl1XGogaj5qM70gskw&zy.m3u8
+遂宁蓬溪新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8f7aGgKFq153t3VWqDfXjTO5CgAb0daSdrjP63IyUUcpqm/FLW6nda4zhpCoi7rgfjDmmEJgrGtJ&zy.m3u8
+南充综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b68a4ol1SYTwU1pQPW14sZ%2BeZMbfpMiPuwy6hmmzqmIhLWYXN%2Bdcw5ETk6J5WxnyUoWHjvE&zy.m3u8
+南充科教生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-cb9cJMEgvD2Gq7kjVoGff8gIZLIZ2IJ41Y9bwTkz5W3PIicWnXhgkPBGZ4AIRo/R/MaJSeqkZA&zy.m3u8
+
+西藏影视文化,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b63eFahxvph5ZY0IvneeyNaRfvpmWBnVvGR%2BkK1AlGu8cv5Qb7yD8MvdIiFpozai/FS7AxY&zy.m3u8
+察隅电视台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bdeeJEPYSQ4O9euwJNIBiMm5Sz%2B4Npq7iySYqdQMh8%2Bg%2BrSHXsxYVM7PDDFwMndLMkYczayoSsw&zy.m3u8
+日喀则汉语综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f808Nyg493HwDFbVxNlEAT4cUAUooeTfPGHE8IPZmMJScWlASoQci7k0vf5CZU1XRFA1AB0QjAk&zy.m3u8
+日喀则藏语综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a33c127EJRvTeWCqo1VFJUMrqHLo56IPMiHoPOgJ4rP2QM7yMjOsryidavi5HRJcIz4hz3wyEH8&zy.m3u8
+拉萨综合频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4900KEyvOQB9YwAVlHx5Lmm1WShIFj/4m0GEttrPGSX9qL8Zij3GNQcxoAEyUphvn%2BQPXOou3Q&zy.m3u8
+拉萨文化旅游,http://110.42.52.180:6688/livecast/zb.php?token=ZY-efb3uPaz9S4qZgCPOEx1uf3e6FxLlBUlmdi7nnvmSov2ALx4ObgRlFOFneRXb8L%2BkTip0suZ%2Bidt&zy.m3u8
+拉萨藏语综合频道http://110.42.52.180:6688/live/live.php?token=TOKEN&id=lszyzhpd
+
+贵州公共频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3fd1y8plXCum5JlRuFAB/uMpwzSVtogsM8L89aF0pJtqQwPxLyZT8IjFfIvAW6E5D7fI0LYt4w&zy.m3u8
+贵州影视频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8fddFlgou%2BmXl1j5ZmRQ1GEmqMTSBsE8MfaT3lanE35ZdMmCmuJJuv/gZm4YZzV81ttyy04ZxA&zy.m3u8
+贵州生活频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4129emLibNkNnzpLFkb0pdWPvo8JcR1TXIXIEBxLt4KSeNIo1uTjl9X5ZPnFkkI%2BriGHqipMpQ&zy.m3u8
+贵州乡村频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b80a0kUB4XHYhe1TK2s3wLdSH5lROhBqN2uFgu1oOq2AcJVJLKcMmukBU%2BX0fR4bOA2ZpimjDw&zy.m3u8
+贵州科教频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-457f5GVvUf6J8iSUntjHcUyymuwmmlVIt283n0dIQLpjxAoTDDQXjPAc3ZyQfS0hN8JXexeC%2BA&zy.m3u8
+贵州经济频道http://110.42.52.180:6688/live/live.php?token=TOKEN&id=gzjjpd
+贵州家有购物,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0f06gnhvTK0UE5xGBsh4TjIHy7Tvjl8BUn7Tx60tmZMlL%2BX7nAsEwy2OJ/vfnzWvSKgH21ASRBSo&zy.m3u8
+贵州移动频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-511fAfaTucza7sXelRix7ROsIdT2SZ/kWsm7MNFCUBmVpG3Zjs9BzbXddwHAj8kHuHW92aVQGQ&zy.m3u8
+黔西南综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9d31Ln/CsfnkvPO30KjLjGi/XYgLXPg/7rtrYiBVIjwp3eqlLrs2VfAWY5KDbU/PXcAmg8ca&zy.m3u8
+黔西南公共,http://110.42.52.180:6688/livecast/zb.php?token=ZY-db5cq6d0%2BascMjltAA26FVPUNM5wnzXh2V7c5vbiVS3BYFtby3kqc2%2Br1gIjH6OXD7Sw%2BuYo&zy.m3u8
+
+辽宁广播电视台公共频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7474%2BkeqFHOt2k2FAO5vhCAmzh1fa0btzLSVerdRFspLpL9OVMNQYh/6YTA1aSTvD1KgotHkESxpJ6as&zy.m3u8
+辽宁广播电视台生活频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b388nZGx7Fde6Qf1YuDyOYskHKR/1eoxSXK0Ci3JdyJTp7qX2DYOFLbBQEanoETU2wAcT4HVMXlSQzCsHw&zy.m3u8
+辽宁广播电视台体育休闲频道,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ad0bsfOztGm3rwc4cyf46RhoDb8vwb1Rkq1HxnBEfkXI%2Bgm3kqx61zqBSIo3ZSecn9KCbihMnMf%2Bnk8GCwE&zy.m3u8
+辽宁广播电视台影视剧频道http://110.42.52.180:6688/live/live.php?token=TOKEN&id=lngbdstysjpd
+大连新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-376ag0q3PQO9/Keudjt1m/5roU6BqKzkc9CdUXKUs3KxCV31X86FfXpV6Or0yi8WLlYtxIfCFw&zy.m3u8
+大连生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c22b5fjLwtsgHudzDMyaGgum8DTLrfnV%2BVyhprmIC4Vuolw8lD/GotlzQ1eRl0m/L6ipIYSDrQ&zy.m3u8
+大连文体,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0f27eVO3BKs1x%2BfrQcqwyXthkJbaN7UUIYtI%2BQ%2B4vPMR0kY61Vk/nOF0YRNNNzu08KLoGo86hg&zy.m3u8
+大连乐天购物,http://110.42.52.180:6688/livecast/zb.php?token=ZY-de5c%2BF1e58x9Mv3Zb4zTcvOVgjaq2igHOsGmQq%2BZClEc7xjVsYdcaVva/dMMjg3cvqYVLZ6jxg&zy.m3u8
+
+福建综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9be1EY53aOaqh/U7hn53pvoTvbXqzUnguaJS%2B/dqE1ahbQzb1wC6kyz3pg/v6ouCzkSUHqA&zy.m3u8
+福建新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a478GsjDVR4uGcLkEv1Nb6mn/hj/o1lOhdzp1sNQf%2BU8b%2BgYABUueRMOF9g3Vrs8hnzFVoA&zy.m3u8
+福建乡村振兴公共,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5424jkIUi8KnbSAlbAhU3qQWUckwuE3OY7H9nAM3WWXSITr%2B%2B65yGQnoTmruPseuH%2BLZh/s&zy.m3u8
+福建电视剧,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bf36rhVsAt7fJiM9HF1otxSQnfeYZ7tzzCuZ4zM4XFL3sY5u2gbqZ%2BXpgpo6EOy6YvL2Stet&zy.m3u8
+福建旅游,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3ab2jpxC10r/9uNTrkZXTndi8GnrcQnECKbt1Sg9QYZf42BiENVoYu4dVt/40X6W2ZqZKvk&zy.m3u8
+福建经济,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f5e1%2BkrbMDtmQIgiW4QUb7Ckgwf98NVoWnANFSGXTAZypg1x7MIW5%2B0Mxw6T7vC6ubmkJPc&zy.m3u8
+福建文体,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6471L37Tq/wvgZwBxGHk80UUbS39MIMzAIpShnTh6zyVOdMaHGyKLnbABH%2By2zHcgJrAbTc&zy.m3u8
+福建少儿,http://110.42.52.180:6688/livecast/zb.php?token=ZY-53e8bKWVTJkoWPb2tPxYOahgdyT7mACuCe8gBACiuA5d%2B0UZ2J0PZbiOX03zkPRdfXie14c&zy.m3u8
+福州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-27abMKUhi0EIoMAfRqis8wCM4dn4rttEo3gwA6mEBbrcg59gzFYSzus7WRdPF7rdCaURZQ&zy.m3u8
+漳州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-40a389yaBhBKphp3NK8opyP5o5D/HUfQ08A/SQ3%2BHPn8QMqwUSEGhX0AsJDJA0h5b%2BrSAQ&zy.m3u8
+泉州新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-aae8kS7AOuBxYKQcLlGAgtIbEoW6dmuEHNiMsbDIHnMWvYBcthp9NDFiuTR83RL4KLX6Ww&zy.m3u8
+三明综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-586a5WQa/mZG0Riqtz4PnPebfnCYrRl/sqnP1RF1BgMKaSsybadi8iF18RtJq7uN92M%2BxA&zy.m3u8
+莆田综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fd04SaiEE6VYrOaxQHpNrcyeqzXWq0sqcKE3F0UgIErx05GfFgE0LaX3Im02EwCSDE0yww&zy.m3u8
+南平综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e929sOEKpw4ACGQHrU8PP7oU%2B0MBsylrZWYLSRStOQxL1mvwFL9Or480QXYuM7Ml/lmKKg&zy.m3u8
+龙岩综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9a64JVsfq3ZBOvfX7uCwCABNAunLKDtDxfs5uCRkn7FNeICupzJkWXASldabFJH6jeG9Bg&zy.m3u8
+宁德新闻综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3162MUYTrVz7rsgX5xMxFm1Oe03Ipikh9asSyf7WGvlYHo2ALbr5dHyi9BOkEm3F5qEAAg&zy.m3u8
+平潭综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f92aA5fJqCJpsOPPt9wVX0UNa/0yHAUFOhgnuG0C6VDa39WoULYl0Y5w3EGPOEm3CRZOVrA&zy.m3u8
+
+广州综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-818fXfRTMCfliQ9Rl7lPgvERri5ed3J1cssCGR%2BYwtZSWxuoLL%2BoBrXIace73TuwKL0NkGk&zy.m3u8
+河源综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-6ee63lpOY%2BHNQp8HKfB/0xqHbukTg8TXPS%2BFwkooAERe4rTsjDiYrLVAfgmKwpf4J345n6w&zy.m3u8
+中山综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3efdEhJ%2BKA9iLJUuyRjYEtjdZGg2ieyRDJy4TyDMbGCxpqpSGH0ypFjFndo/7ds6c6oyzmc&zy.m3u8
+
+1905电影网环球经典电影轮播,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fc96PN%2BsmqwixXMw7towK/b8iQF9qS4eMOaJ7dM6a1xmGBNs%2B/obNDiC27sRnzGkQQaWZcqNNpzS&zy.m3u8
+1905电影网流金岁月电影轮播,http://110.42.52.180:6688/livecast/zb.php?token=ZY-92d46DcpPnXYI1SEPWnaazlPbiqRaeqG7cAFiHLnheGH6D6vGgjwj6qfkzFbk7%2BQ8XHtFbe%2BifmU&zy.m3u8
+重庆新闻,http://110.42.52.180:6688/livecast/zb.php?token=ZY-47b4okAFFt8inbsjxDvAMVx%2ByxDMrm1zfgopoTD1FWIdfhc%2Bk03nAHiXoFdB6PdvhFzvJgY&zy.m3u8
+经典动画大集合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-18beK3tAWBeSNqapsFIMHtre5RxIFAjhYOpXaDUszqIlt5pBxa6bfxgimc0zlw8ZvuEtm50jepU&zy.m3u8
+经典香港电影,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f2d7zbM%2BnlfktJdlOIIFYatiAHcilg0%2BnyuR3QjrleAhW7RvyIMg5d%2B/EFVhkJh3GF/TXdUeZQ&zy.m3u8
+抗战经典影片,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4564zRdd0Gifl30RGNxmmueSS530cl%2BO8ALOTChluJWYBIVqTRcmt9ZHVfYQtmVZf15dMNUT%2Bw&zy.m3u8
+新片放映厅,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f931za3VYNThL%2BaTMEriNfJdjv91az5sFbaoywqRtMuhWbIAgL/fDGdM80Y/XZuNMXfgph6h&zy.m3u8
+CHC影迷电影,http://110.42.52.180:6688/livecast/zb.php?token=ZY-8bc1PYEoV4LD%2Buz6pgIhJdzC17roCUJJ7AHAho4qGl01BPPU8uoeSXb9PDD/fgateFIECuoso0I&zy.m3u8
+CHC动作电影,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c3e7ns3FAOEHIDOEqV3cz/Acn0qiD1hPdNtLUoU6%2BN6xwobwAkJhdiWVWsvvuh2azqiSmjwLYJI&zy.m3u8
+CHC家庭影院,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5ba2Za12LQJDcjLchvYtrPSBo5cBqc5/xxfaQW5syrjjjnR5NAdHY418Hd7lgxbMEiUUwJUnIbI&zy.m3u8
+和美乡途轮播台,http://110.42.52.180:6688/livecast/zb.php?token=ZY-de99pULuNYHNogzILPjtGSYCSB4HhGhl2UyTZfb3spsTE6FI%2Bqnhyq2vZ906WPMok8HDtAr5P3s&zy.m3u8
+南方影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-50ddjyTcIjGYaCZGzC%2BDrrOiWAUIwyHRQxKz62zUAPSJqBCqw43ih%2BSs/xjKjI8IhKKedBE&zy.m3u8
+赛事最经典,http://110.42.52.180:6688/livecast/zb.php?token=ZY-5786qu7BVoSM2A3hifRn7jHtv2OAi5I6iI0djW3FONQigkrz8hKQIeLjuigduDB7whcj3crf&zy.m3u8
+体坛名栏汇,http://110.42.52.180:6688/livecast/zb.php?token=ZY-aa9eYsTvgK8VhIO1pzkAnvKzja28CLb%2BgieEGpQK6uO91acEXj08WTTB3wLP%2BK9KkoZ7p74B&zy.m3u8
+四海钓鱼,http://110.42.52.180:6688/livecast/zb.php?token=ZY-036fYDVSr5i4FsBaBtv3GuQ3HdFzDgyeeCwtdcTw7OyxHPyFa%2Bk3aD7poxG%2BY8tlup6FxS4&zy.m3u8
+武术世界,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4915Jx10U4aax0pIESk9VLkMozmZeNpHPsTu1nK2oTEe/cfb%2BUnoXLAVKKcNwcuGi9GnWus&zy.m3u8
+最强综艺趴,http://110.42.52.180:6688/livecast/zb.php?token=ZY-331dZdrelKxra44xIW0yD6tsnd9Q9ReSu0akjyAKg6/OVfpzZnbvu9IH4WccEZ4TOqAoXO07&zy.m3u8
+
+杭州生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c9daFEgl9Egs7Ut5Wdig3CgBi6WCjXWT1WV2NfahJ5dOuCzDP8S6aVsN387UZ4ziGYZiaNQ&zy.m3u8
+24小时轮播,http://110.42.52.180:6688/livecast/zb.php?token=ZY-22d8dA5Ehue7IrK2qZfUH3KaFkE/uEo8H9isSBMHOudDUMnvfNmodAinCz7WkeO4Ln2le3bt&zy.m3u8
+传奇剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3986rR4fOIBvFUz5RLIzWHgVfd5Lg1XZJK/wlpO/HTCiq2kCH4fh9QMkJdflft7l9sVm9Q8&zy.m3u8
+热血剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3471O0C6cus%2Bg3jpj1zaH2L3r9HmM8tiJvyxp1UWZWw8oqhvtECKRVthh8xYCKNFd1v5yJY&zy.m3u8
+往昔影院,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c75e6QR2XDPMx/Ij31aQdeuLOnQ27EJcdn7kmAHZ58xpNYnvU77umCl40Ry/zk6gcQP/8uk&zy.m3u8
+生活剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0d12jQI82u4Vpj3xklMxw58u/JVPENTOKpz1ekkwDnnoVXLmP8uUhCxkMaz99Rb5OtqyNaM&zy.m3u8
+国产佳作,http://110.42.52.180:6688/livecast/zb.php?token=ZY-adba02iHv9a4BQ5%2B9WYb1OwoIySe6BCrYXTTk5yzac%2BntmJqLX/ojsKdaIGRDNcnGFbCVBs&zy.m3u8
+岁月男神,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0582F4uSem/tK9yonI8luNPptxu5NEL2PSGmvTWgp7j4V4hrpE7BwrEes8zwVAaYRJwrNJI&zy.m3u8
+心动投送,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4d1eU8llN6PWP836xUtxpzB/LshCjnhBJiZbKyRwiMGBLEUbiuobt55R/6pC0NuV/OIzAOU&zy.m3u8
+宅家剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-15c0jmGotGHmDFliXS%2B8mu3l8fCY2wtNJlUNLxe72PnCx%2BnzjzADL5lhrfZkQ7bp98sND4k&zy.m3u8
+怀旧经典,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ed78mOsRuH6FvZuAvd90/8vZogw0Or7U1ulvSyhjrUo3EPneisk6XjaFN3VnBSyh1TJO3oQ&zy.m3u8
+放映厅,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d649YlJFrB5Vf8N9GEVbHooa9SKubPaNiHRkKkCARuc78rFpqELK4RlgwXaFBT2lv7/jzQ&zy.m3u8
+红色经典,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3ce2VGcbP/CJmIvSYAgJCTDZkftYPzuKpLNH9XFp%2B1VgB%2BdevSxpSPBFIAJBIcAI%2BYIqGHI&zy.m3u8
+大咖面对面,http://110.42.52.180:6688/livecast/zb.php?token=ZY-95f8Wly6GbGKDH9dBZWQMuFda3c4JWT2rwrlC0CGsdcWVXVGgVfnjE7yodBwcJpZem7cVtMe&zy.m3u8
+周润发系列,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fe2etMmIybjgJXIv0C5os/v64aIEti/IT8jzhO8oNGFC3yBPJ5ac/Ay%2BKQoxMl83SDRriLTT&zy.m3u8
+
+中国天气,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3a47Kn/U/3i5BTKqY4d6vo67CocVKMfjL7Iu2PU43SVfqlIdqCmfAIyY31erJD4iuuIaEng&zy.m3u8
+中华特产,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a823U9XEYPtn0YjEuzmosXnp0CzKPsTRMGPrgur9em/ZNkMkcglzWPIRGnNT4yP6sjzTuJE&zy.m3u8
+环球旅游,http://110.42.52.180:6688/livecast/zb.php?token=ZY-71985J1/IBkLL2B%2B49Phv3MUWp46lbH5lFOaHqQq/qoo0qJaGCiUu/fAemRNgjR6cnije98&zy.m3u8
+熊猫频道1高清,http://110.42.52.180:6688/livecast/zb.php?token=ZY-591ac2UuZ%2BtE2lrQR8/JiiOeIVUVP9MapebmKsr6XR/HSLssglEY4p09996vj3i5xjy50v1v&zy.m3u8
+熊猫频道1,http://110.42.52.180:6688/livecast/zb.php?token=ZY-86266YhxA%2BHYnKuHsUXK55fAXe5bo8TNX21ucVkuJCEL%2BnN%2Bs42WZdwym8Z5A00av1HcPA&zy.m3u8
+熊猫频道2,http://110.42.52.180:6688/livecast/zb.php?token=ZY-77b8JXjjbFAK%2B60ArnaBuESFX24g8NthZDmTVPCsKOfj3gos9wpukUhoEceGXzpUGSkBVw&zy.m3u8
+熊猫频道3,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ec35yvfManiRTcDbYDbbkaSwo1ecrvXpcutI26Pjpmga/eFeYGhuFAMyb7XCZ7WoJYK8hQ&zy.m3u8
+熊猫频道4,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ec0dqSWs4iqL1snlCO36tc1TOEoxtaUAD6mqvTmWl/QvSZsiOkw%2BaXI8bNoGJLDl3idnrA&zy.m3u8
+熊猫频道5,http://110.42.52.180:6688/livecast/zb.php?token=ZY-0274HbfI6NWUln3h7j8sT%2BvfA5dNclPLm8IA9kjHhvx8dzgwtQUvYjGyJmSajF3bQ6fAyg&zy.m3u8
+熊猫频道6,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1524VCKXL5CHucRSj/AbT05OY%2B5VeOfEsflVD7LjJe/TcSnCSGfSlhVrC1Gnz6LfLO4F/w&zy.m3u8
+熊猫频道7,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c34fGKvDH5T%2BnxMQCByxhKy1B3kOsQz2T4Ja3QJZgnsQNOm6kJ/NAMtYAkWq4M0a8Zt9gQ&zy.m3u8
+熊猫频道8,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3a2chsgOlL86tHc/eJPv9lND6dCVenz5OywADpuC2igubrDjyHbHo5Q3pW3AZziadq0kvQ&zy.m3u8
+熊猫频道9,http://110.42.52.180:6688/livecast/zb.php?token=ZY-db536Kyoxur%2BAq/fIP213WbfM83UpiXGq3PH7JrQjdhdY0SR%2BVySF6M5RKe5Vo2uCceM9Q&zy.m3u8
+熊猫频道10,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ce52f%2BwjpzEBZiKBjow85NpK87/gnpQ%2Bf0Un4sEu9yxHMCnVDHvJw4hI6Mh3C6V/qcmV3oE&zy.m3u8
+
+虎牙轮播,#genre#
+电影_星爷,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6fecO4LqWAQXDJaINWFxt/B%2Bezojuu/1EpVom4C1FF%2BFe4VpXp/wZI3MOW27xX68BD8Ri/uSb1%2BF&zy.m3u8
+电影_英叔,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1501Ao8HzB16tW/p%2Bw9BcPGdAm1mFzFOhZoSX8C5DMBiDwaKTsdKsPAvRQMOCYAmqbf48fXh2BJM&zy.m3u8
+电影_发哥,http://110.42.52.180:6688/livecast/huya.php?token=ZY-5f31KRoOgujQ9LOxO5KF29KagnIlL%2BSG47nrDtaXn92WgIgS7e3gD7OY1kHijwKp2tBCKiB8qY/9&zy.m3u8
+电影_成龙,http://110.42.52.180:6688/livecast/huya.php?token=ZY-f87dUsI6U4nf/13TEZLADmE1ajkILFBeUN6vMYRYtDB%2B6wEnZmp6dgIT2/8t9Gbaq4FN5B3AgEUx&zy.m3u8
+电影_王晶,http://110.42.52.180:6688/livecast/huya.php?token=ZY-58bf0UqmgxvkDUfTVs3I00AbMWLEm6Xp5yKmQ8zTm1wN/Revh9XxB4DbWXVMT03EWE5wknBTTCsZ&zy.m3u8
+电影_沈腾,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a56eo7tmvV8HKKVI788hALuXhe4Auzlnk3u3GsArWs3IjxgFrdwC2JlpU2YpAjUFjUtu15SBclQr&zy.m3u8
+电影_黄渤,http://110.42.52.180:6688/livecast/huya.php?token=ZY-86c2UKUZ9AOKyUGhSNB10XuexFKV5hIad1ezWqR5cjXWtQDHEk11sUaQY7oby/q5LJwCzgjefT5b&zy.m3u8
+电影_强森,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1d19z/iVzvgdU3z0BZcfXzqcPgVn96CEQqSS9%2BS2jdUtzDMBeSXgj6Q9xerGL/87Fb2p4FyRGUww&zy.m3u8
+电影_漫威,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d20edXHHJIbz0RauI/U2nbcL%2Byy2abz5ev3SfRDhoosZjpc6DxXNc%2BJobbtbKpfhn8e3nCOCoew0&zy.m3u8
+电影_宇宙,http://110.42.52.180:6688/livecast/huya.php?token=ZY-04bc1a05J5XtcJbVj6V0JMm3By4S/N8hyBbbW2HEgfZbv%2Bz1FoOKzoeUidaIlX8UI6o7tDzjcoDo&zy.m3u8
+电影_怪兽,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b98ck/qrL8pLTZT57K7VuJWmvBtrs9PLU9BTS/gEkT1b3LMYw8AZcehFbQZhVH/KCEVtRspYzNzJ&zy.m3u8
+电影_武侠,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a03ePqMC2WrzENPiv8D6JJ1KuWqaYSzs2jiq1grwx6x9Ik6lJ0y9Gsbx1y6OvAFJPmwCv/YQuYli&zy.m3u8
+电影_警匪,http://110.42.52.180:6688/livecast/huya.php?token=ZY-96efaigcskqkxSSB6axIczXV8hFFY2cay3fcw%2B4un7VhS4VrdGP1y9w0YHQ8X0VEr9aLZVvY6eRy&zy.m3u8
+电影_罪犯,http://110.42.52.180:6688/livecast/huya.php?token=ZY-4191hWdwFZtAEohK00MHCMUvummKisXYKiS5JyBb2DHVRhWCkoHRMp8tm8eIbNAmKsObaoOgiN4Q&zy.m3u8
+电影_枪战,http://110.42.52.180:6688/livecast/huya.php?token=ZY-16a6fYD2qzFNhmrzzZgPV0G%2BCLyqj8FiNnXs62CIPLdm5xuGy2GMh2QnBVTCywAgCl1p9jUM7tsL&zy.m3u8
+电影_海盗,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1fbcftHuNA4g0q9ZIHBDD7f967e40JtRfBgkteeIaIXgQn53RVUlVMzEOUhKGbPf3D0ttbV0P1CY&zy.m3u8
+电影_赛车,http://110.42.52.180:6688/livecast/huya.php?token=ZY-97b3Te6VCS0iBiMVsEc1IJhHtu9hdq2WX5%2BflVbQqDvrrovk2E9njy2esJg0cE7172s7dKQjnjfN&zy.m3u8
+电影_推荐,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6318IHhbwmJOh%2BNE7U9GjSoYOOMoFmOoilORzla7lr1cwDARvcGMazFWLHX37q1q14SikflJ7fmi&zy.m3u8
+电影_救援,http://110.42.52.180:6688/livecast/huya.php?token=ZY-2e9aXDUAztYxjatpXKJ7YqYrqjRBz7drfd/9vS6UnaLIrvx1Q9Rk8MnAU2JZiJiIYx5DdQteAFx3&zy.m3u8
+电影_热血,http://110.42.52.180:6688/livecast/huya.php?token=ZY-34fb2OD2%2BBzYfhjrUtLTzbyssDyBRiz/GuffRp8P1k1mnaOdUjOYYeo3qowTlw%2B6Fd6foblU11/U&zy.m3u8
+电影_盗墓,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b6b3ziw9ndLNLXi9Hxa2jXqxMWBbRtkb8cKxp0mIE5qdEu9f3lmO9%2BBgkX5HgtzMthLgbEXOzMky&zy.m3u8
+电影_贺岁,http://110.42.52.180:6688/livecast/huya.php?token=ZY-19cajZgCdBW/iKXFo2835gezGzHaas00RbQ97V4B/OVDZaR2wKcs6lpTM6plNCiBS9NDrDi8Qnn4&zy.m3u8
+电影_玄幻,http://110.42.52.180:6688/livecast/huya.php?token=ZY-81a0HulNlpDlYE4JrLDYDCKhV%2BRaYjhKIypOU9IRBc%2BYvFupS54Bzokv4pUIjH2CHb9bNgP11RSP&zy.m3u8
+电影_谍战,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1a17oBqneCFzWZQSFOnxlhYKimsNYOhsAw9fAiNvaAfansJ/2yQJMcSBDjV6RTHVIkpE7WqCNVUa&zy.m3u8
+电影_战争,http://110.42.52.180:6688/livecast/huya.php?token=ZY-24ed4bbgDMVJfFMdtfzligfdl9FI4L0sZSTB1VUEYjY3bQGoiZWFIU/kX21vhu458jGohnVE06sJ&zy.m3u8
+电影_喜剧,http://110.42.52.180:6688/livecast/huya.php?token=ZY-4f0fD9EhOzHYDVaqETle6lyTxrwOgmijdY30r062FG7Dk%2B/l8kdWaQdXmjuIiwhbrSsOxxKBeLMT&zy.m3u8
+电影_港片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-03dflKOIqCCgNsXUs28ATupGdrg9dSgeTSL4LRLr1vr7oMDBBe88fkXqnXJEWSP0RhzMo30z9Csx&zy.m3u8
+电影_国产,http://110.42.52.180:6688/livecast/huya.php?token=ZY-9fe6KHHThvOM/5OWiLizQAuts9JX8H/qarIA82H23zC2VKzzKsEGmRWC%2B0zRqexyi66xf8%2ByshFJ&zy.m3u8
+电影_周星星,http://110.42.52.180:6688/livecast/huya.php?token=ZY-8149VrB4/2SP5xu3nsjDkfcdU24uEnA2ChQk%2BE65JjHoMSBGhAJQdf%2BwknwDJRwahA/iAOTGdZkn&zy.m3u8
+电影_李连杰,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b11690LUQPEXWyks497HkhfxLsxc3qyb/zPqmfy9t%2BTHGoJ6aw2z8Rgl2f5CcQZU6SThkvZmw0jU&zy.m3u8
+电影_洪金宝,http://110.42.52.180:6688/livecast/huya.php?token=ZY-04f3BB9avGwFBwcoEna8BPoKDEaQepTky6uD%2BDW0z1Y5u7sU793%2BhH0%2Bwxya/poLoKl3E4Vvp%2BQm&zy.m3u8
+电影_梁家辉,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6f95q78WKu9KVbcRrxWMMmdO84fVZk%2BQXfPPZ9hF7XkvtgkF/AcpaLjWo9ZXND9nhA4JJeBKY6Dp&zy.m3u8
+电影_许冠英,http://110.42.52.180:6688/livecast/huya.php?token=ZY-8cd2knhf5y/SeEwy3IUO6eVnzar74Jcux3d59OMzKQtF6KA2tks8RN3NH0fqn0KhftUIZE6qQp%2B2&zy.m3u8
+电影_刘德华,http://110.42.52.180:6688/livecast/huya.php?token=ZY-0ecdDP9HRArIf5jBEnfVF0HpvruwR3CPI1VwJSV9DMNeSwvDa/cnKMPNIRfmwJytLfGJ5U7BGPvH&zy.m3u8
+电影_斯坦森,http://110.42.52.180:6688/livecast/huya.php?token=ZY-0e3dll8Uq5WJoLqufKNpny1%2Bre86d0a6KyMQtYjKrz8o1IyJSh%2B9O6iTHfaXd0r4u9N7dlWgorJg&zy.m3u8
+电影_小鬼头,http://110.42.52.180:6688/livecast/huya.php?token=ZY-5589jJIFiHswW2ksQRPST3FKa6HKZAHewdBw7MfehluRnTx0MzHwDLPAKlK6GH/v%2B8WuszhSmo/F&zy.m3u8
+电影_八点档,http://110.42.52.180:6688/livecast/huya.php?token=ZY-29a4fM10uWTn8L%2BmoCYCdFztCuus0r2BZ9xbTSpFsi9rx5sGouZmvbBnnEtxswWCFwhsq011qQ&zy.m3u8
+电影_蜘蛛侠,http://110.42.52.180:6688/livecast/huya.php?token=ZY-9febdzELGxTMWJztptXXFj7HJsxYNWWXSDvizoCRedIVN7S5Trkk%2BOSlAJub3Qn7VPZOt13l5TPn&zy.m3u8
+电影_贺岁片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a639v/2rT7aUGO5G3EUCRTPOM2WYMwZgGXehkc63Mj5rG4PxrXH%2BUSyy570FaIq9zPZoevhemHVy&zy.m3u8
+电影_功夫片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6256XidEPTQeEr3HKp8aoAuMYIVgTfcrVgyE%2BOOoXALFVH54RVwiU7Wes3kzXuLcAyBJd9SdzA3Q&zy.m3u8
+电影_黑帮片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-e95bQiz7PcLhBfpFThAmJMPVgh0gqIAKX%2BCIAHpLZWDwEOI/uKAu9/60ZmZmQGO6IeBMuRaa1%2BhB&zy.m3u8
+电影_丧尸片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-2e7dpa8RAtERu2aQ5eOPWzyVq9yPlowCFor2OobtBnpevNC%2B0wjCKNgcJSrDdDXpPf0RjIDhNybm&zy.m3u8
+电影_灾难片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-314cz0%2Bk4e8EHWu5XlH1cFq9sS%2BFdz6Gag32sc/eZuBi/9PZp9qgywkMkGJFII5gYzrUOlyBa4L7&zy.m3u8
+电影_谍战片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-e6daDT6jQlIsNVe4R679QSo7ufa1W62A83bXYTeAsnl1D7urZtd5M6MHN65PGdQG8PdnLow6GFa%2B&zy.m3u8
+电影_战争片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-ba2anI4J3EB5KVZ1uyfcvjK50NOEfmGGmkCJ/fFUTHonDsGQ%2B10fbQq/%2BfPoe9ZRPcu%2Bea2yiZ%2BY&zy.m3u8
+电影_犯罪片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a3f4yFavjS2OusoolxEpEcMPIg4CqwXm7rxXLjtb9vu5a%2BY7h1AFgmh2VXUvHPVkTHrqUmGalBkM&zy.m3u8
+电影_古装片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-74e9siBNKg/v1hDjxTk3eHLV2pdCXCAXJnH86PHiE3pZ6kWhlBxVCG0O6uS7/2OHUgMq8PXZxO59&zy.m3u8
+电影_高分动作,http://110.42.52.180:6688/livecast/huya.php?token=ZY-4ee9YKnaisZh56ht/ZcgoTiulnDASuCO6iIFTpk8vCGEQjsn%2BX/YS1R8J0MBJwvy%2B3PAjpX/O5/1&zy.m3u8
+电影_动作电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-f40a8CZWgb0LGsQXStb3C0IabAT2LQN6LAUmIz5NLeBrIPm/Q6GyMUayozjfSBBmUoNnk4m2lFh1&zy.m3u8
+电影_搞笑喜剧,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d85dwU7jakicXnL2Hx6TgHCChXx4BfLwnoAr7cvyb2pYdanFv8fJjBhA/D3Rt7iQFwKzyudxpC0d&zy.m3u8
+电影_喜剧专场,http://110.42.52.180:6688/livecast/huya.php?token=ZY-9bd34%2BHWrNjJlZdrDOpPMhpLINJgTFtVLoUkwgSOHW30Cdct1BMdd%2BOMo3LdvlGtmzEeb24%2Bt55x&zy.m3u8
+电影_欢笑影院,http://110.42.52.180:6688/livecast/huya.php?token=ZY-4e5ffaGhR0cr864OiPfB9dHIKcppvLhQgj/5U51QoLmrhsWQgzRhlo20nvL8U1/1YeFY/eZDpoYD&zy.m3u8
+电影_不挤影院,http://110.42.52.180:6688/livecast/huya.php?token=ZY-3097RFFb0hwewzek26hb8Rpg69pTcyYiUkZyaBUNhCPhnAOW4FpmA5eQrquoWGuwDhguPSP9t2%2B4&zy.m3u8
+电影_国产悬疑,http://110.42.52.180:6688/livecast/huya.php?token=ZY-121csZA8XA3O8sKdd00Fs7FKYwSnAbNF%2B9a%2BjRP72hIDEDwaP5hNeNbdtEym9JesVV1St8iLNRrL&zy.m3u8
+电影_快意江湖,http://110.42.52.180:6688/livecast/huya.php?token=ZY-ac5dBiwnAo/K2/fkb7tf8X6vLhu4ILYkTtsEhUpocPRnA253c6uqQ48t0ZT5e2p/McAROS35YGAn&zy.m3u8
+电影_黑帮斗争,http://110.42.52.180:6688/livecast/huya.php?token=ZY-e2c2bjwFfcEI%2BIy2A/lDhBBcRtsXoxXDVyPFWTW3V8Doe2y0fmvlI3R38/PhmzngvbSA81RM4zKZ&zy.m3u8
+电影_古墓系列,http://110.42.52.180:6688/livecast/huya.php?token=ZY-f7ddACn5gGBIwgM5f6M5prNgHGy7dv8rhHF7dWE5covgCxX23zbn/jnuHjridPrr3IQ51pSQVe%2B9&zy.m3u8
+电影_嫣然影厅,http://110.42.52.180:6688/livecast/huya.php?token=ZY-cb88LgE/slPyWYhXtbPN81s%2BLhloGoZWS77BlZ3pjK8AE1ppgNvfpBDxcgwHf1AG6Rn7bbtHDFz3&zy.m3u8
+电影_女神系列,http://110.42.52.180:6688/livecast/huya.php?token=ZY-53bdIenWCLDApC9uhaR1N64x4ftXyAwOEAlB%2BSzkTT85u%2BztrT1aDpW%2BLr/LikGL/u0ul6w6gg6h&zy.m3u8
+电影_经典女神,http://110.42.52.180:6688/livecast/huya.php?token=ZY-7538UFQjqY/NG7kIvBe%2Bn5PWKph5QfM5VnpmadBeu0S/8FyhnHTEnnuigv56QkcBgmxDrKeCSTrd&zy.m3u8
+电影_许氏三杰,http://110.42.52.180:6688/livecast/huya.php?token=ZY-372cJUOPHB8O/cvPLqS%2BZ/C9z/rcgPoQKvfSQE/43V8cY4cf01liwPPlD50azmOMAg32WEGJiJjo&zy.m3u8
+电影_经典港片,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d2f5fgLd%2BATnJeqm%2BTjVlsJ/A1h8C6A11Er6KmVK6Ua15ot9jh6X70dRmpBEdKLDCE9VAlTGwEyy&zy.m3u8
+电影_镖行天下,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a07eZUngIuPcRR09f2kFIzh9UCZgj5ERcIEL%2BHGZdJywQ6fRSU5%2B4G4aMaYhHDfvndi552CHsCPU&zy.m3u8
+电影_高能反转,http://110.42.52.180:6688/livecast/huya.php?token=ZY-e53bpwVrLif3RDhisXVeLWBJwKBwfGmClNcl4DzuLLW/7jVJQm00UIR7m1iW34cukCDqZFWtr9Sm&zy.m3u8
+电影_喜乐影院,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1ad9cFU/scfoBFtZOSXaKfmabN/uOn257l4DKJGF3C%2BpWey8SHRqRUFsb1IhW%2B1xErG44jaS/LlF&zy.m3u8
+电影_蘑菇影厅,http://110.42.52.180:6688/livecast/huya.php?token=ZY-81897DbmUf4SkbHBc31jz/Xfe9u2gVIuxoQl3%2Bu7gyIFVQ2qNr8wRKXxe4m1tvnOOm7Vr5Jf3gQG&zy.m3u8
+电影_搞笑恐怖,http://110.42.52.180:6688/livecast/huya.php?token=ZY-96b3UFhuRG6wuFvEuoMku9ydTserSanFDjGQlL8ZwASmTuYtvA2ul8D0JzRol565xx7w%2BSrk%2Bj4E&zy.m3u8
+电影_死神来了,http://110.42.52.180:6688/livecast/huya.php?token=ZY-68d8FKn%2BuoffaA8UFBxMNqbFa1u4z2c81pY9lWswCSzB3OyFXAzlHYp12i49Qdhb8SPVPGqPi7p%2B&zy.m3u8
+电影_变形金刚,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d0c1hwJUkJ4qzGqJo/lsbtnXR32VcvThVPXY1ZRlS8WnI/Xf6sCwyFEI5zLniQLrNtlgBp6mIZr/&zy.m3u8
+电影_怪兽系列,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d32ewQa1OYlK2T1mSlOxXbEyx%2B2G0jxKCDbrT2ApiVgiqSx/6BWCuHP4SBlqeu/1lUZmKpK6bZyP&zy.m3u8
+搞笑_陈翔六点半,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b759IBSP%2B1zsqwCfmtEF%2BzZwFX7iYmFTsb/AyEe3DcMLhPpI7LYjxNzKfljKk3oVUEOJNEDUClaS&zy.m3u8
+解说_电影狂人,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b719Npqv7NTPfrj3kS6vOvPLLCbdYEC2bFIldbwZT1UUba4Xrcd85XcZ/Y8Pf4mITv%2B0FRFypqfA&zy.m3u8
+解说_鹿哥电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a803skcNdACoPe92VcQR1ZBO83pr4E7bz4AyPyvspAvB0LqEuXVB6FXAJQlHC98eYVlxdZrNA4dv&zy.m3u8
+解说_斌哥漫说,http://110.42.52.180:6688/livecast/huya.php?token=ZY-33845eD2YoK7wKvNnL8A6r5wi/UxSH8Jr5ynKWaZGzJnGSlDLilgfLvMZESEX98XpIuZVmVukHjK&zy.m3u8
+解说_续哥说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6727oXKSgYKl3fr%2BfEKntU0ShVEWKGE8o02pFFtF2OPTZGe07VV8lLpt%2BIp3hxxczzs4FH6Bz54g&zy.m3u8
+解说_小川侃电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c5cfT%2Bb7mtAtK3XLs/QPHMJ4MBvBVMxpurCXFE39nEaNXjlsobLIpzeIGEu6o2QxMjG2fIMTkgnV&zy.m3u8
+解说_阿钙扒瞎,http://110.42.52.180:6688/livecast/huya.php?token=ZY-a548fZ8TFeKyyvaJpbuMU909SM74s%2BbV5PcZwfwExEFE7zKedhNQ5GiqY5/p3o/HO/EqEwTDAw4a&zy.m3u8
+解说_阿良说剧,http://110.42.52.180:6688/livecast/huya.php?token=ZY-5902ijFDm876LbXBJHp46Y1qomh75TtqYSTsnLFKCcL7Z1eb9AlORbqdRLmpdAFnKpStn3ifDNw/&zy.m3u8
+解说_鱼丸电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-8fd0u%2BbwtbwsH0GRtnXPe%2BSMx68FKKCPc2E3aNhfCkP9xY/TWrc5tTUJTM3NYm8lBm487I1uf2Wy&zy.m3u8
+解说_阿斗说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-902d7y8QPz3oZkSXw8OBcxf7l0pHrCrWo9qHkjDDnCpgW8w%2BZ5feEIOg3Au5GA03hYkkQkBGywPb&zy.m3u8
+解说_扁豆看电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b6117ZnKsBYi7/KvFhKupeEx1daQ17EOjt2nK/iwyWZqMchzehEmiSeKgV6R7HNiKd3hOu/SWWi/&zy.m3u8
+解说_乌贼说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-330eNulU6WSJ3v2t8nF5TEMKu33dysu8JTiBfcGLEF6nSzcEII/f1ww1AwrCamJrkLwCNjUVRmRQ&zy.m3u8
+解说_大象放映室,http://110.42.52.180:6688/livecast/huya.php?token=ZY-0afdT4h4w/54xYEpVnaY4sXSBhTz15NtHl7%2BPZ2u63yuenvwo0DsQf79jRnrfwp%2BwIgbvpSdMey6&zy.m3u8
+解说_科幻梦工场,http://110.42.52.180:6688/livecast/huya.php?token=ZY-3f342Z%2BoO9W7qIregf6ugqF217HlPOxOydv9s2RRo9lFHPCfUBr6/wjCa7Mm5HUmFrF9ubYRSm6U&zy.m3u8
+解说_亮哥讲电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-148fxz4z1IjyHHKCw/2jSlVmEVahZnZHeDPxLmG/DsGTtxs1isRARs96Si7GpgF6hjy2tnvK8RUA&zy.m3u8
+解说_越哥说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c9eeRkHS2Ar3esXPElzZFP59QnHE/%2BYX8p3t/bT5%2BBktZsySEKUbZI5P67EdfQNHqw88aknUka73&zy.m3u8
+解说_小冉看电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6cbcGEeVWzDOPpGmVekTFqtgCGLtGi9Hgtpv7mMKdc/dKxci/M1%2BKKScZwwA5UsVS%2BrkxRZVIklT&zy.m3u8
+解说_嫦娥撩电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-7374/v%2BJhj%2Bq%2BjLInpmJnKr4Y2n7ei270MBTMXhU/rvTAe28WaTJe9b28Sc4/LvAAMvIlVQrg9At&zy.m3u8
+解说_阿翔说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-3946GD5pFunSQnfA0LEww0m%2B8nIMpjk2disKnvXiqClSZP3pvA0fE4DL36FmL7W2aFdZwholL/4m&zy.m3u8
+解说_疯狂解说家,http://110.42.52.180:6688/livecast/huya.php?token=ZY-31dc80Caok0N6BlW/oIoZOqYWy/lWwfPNVckTs%2BAvmLtyMRqP9Mjau0Ps/KCSF9qVQ7DYCYLPTxh&zy.m3u8
+解说_虎妞说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-7af6a8csARs1MHZVMqzXpWkdeEWFV%2B3XyWUh2Ot2nWqCZkZVZ3q0mVzv7wm1xwj/dOaQsPSL8QTw&zy.m3u8
+解说_顾久撩电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c9a8NtvF/xsVfIOACj2okGIugltXrnAMQhI4iYK5U2emN21hig%2BGtn5bzJxcKoB9Pajh/pCg1MAU&zy.m3u8
+解说_涵哥评电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-189f/SrwJ4Z88KDE9bZJjzBmsgSCnAJOuKGw4SPUBtWx8iRLKyAHeFTkGJznQYS0S%2BXdAdPnzk8G&zy.m3u8
+解说_俗哥看电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-3d3bcHv2kUqHSmFn7Z4xjrGjqOvQiJHT87IQ5DM/YRRjKKKyqQrsFtIyYYS58piYviFQ%2B1GcILjZ&zy.m3u8
+解说_老皮讲电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c352WnxFNjVpj%2Bzi7Ac%2BJI2NCkUKs4PrdZT%2BnASFmRLj%2Bg41oCbKss%2BI3W8Wh9%2B2wytNsp2kRMx7&zy.m3u8
+解说_默爷侃电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-18c1UDa0UWMIIFMG0Bj6Eyvgk%2Bz5GABHIFFH63nqTTeguzcQnQVNCha0Ra7XXijRDEqywKRy615Y&zy.m3u8
+解说_冷君说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-bf68QBnHJgDDJRzvWuWbJ2tU/sD6HtjUrRcDZXcUywI1DucZMrHv%2BhcJulc29vOt/eSo6WoVyBVN&zy.m3u8
+解说_老炮说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-8eb15J0%2BGU2f66hHeb%2Bna4Gkq0DzdkRm0aQXQHS2FKPuwx6fMxJsEwmOvsiwbDHaEwUJYWeZ1Cb5&zy.m3u8
+解说_刘老师说电影,http://110.42.52.180:6688/livecast/huya.php?token=ZY-76deWqiNM%2BtSaDCDj0X9MZIwZBunvkDVdGCawh5yDEo1ztp92ew5XU0BcNHZcZdXHeK3PlgVJLh2&zy.m3u8
+解说_恐怖电影解说,http://110.42.52.180:6688/livecast/huya.php?token=ZY-5f54l3k1jqZiedcmivZBGE4E8kGOzu805SAzHlI2aEYCRGwO/pDO6yefhQgkUy5EHBXFhNNYpij1&zy.m3u8
+剧集_老三国,http://110.42.52.180:6688/livecast/huya.php?token=ZY-6fcbbqZxx4ye69tZgWZ%2BtmcVyvnaVNX8EVRFXBWQubAKCukEVhJjuIaJRbfEFc6CXhBSy/Z2HUl9&zy.m3u8
+剧集_新三国,http://110.42.52.180:6688/livecast/huya.php?token=ZY-795a80/fSgqAxz0z1Sb2/fEG1fiLK6C5hkL1wWFvWCr3b7KfSReXSrc/4ZC6UKgBznlctb7Vmk9o&zy.m3u8
+剧集_新水浒,http://110.42.52.180:6688/livecast/huya.php?token=ZY-d721lz8J1BT0lu9tbShQt80eBbZ5OYT/kffymROPldpF%2BRqZ7%2B%2Buo6DW6hY0VN/NZ9pyZD5XWi0&zy.m3u8
+剧集_纪晓岚,http://110.42.52.180:6688/livecast/huya.php?token=ZY-e2a1wR9tLubSPFaQ2lUDav46IuV7Hscxf2r1F6Kk8niqwzAF0hiOTBxS5sLeTcsix28yoq/dOJM7&zy.m3u8
+剧集_庆余年,http://110.42.52.180:6688/livecast/huya.php?token=ZY-5fa8KSCkGv1meywmRyGA7gmO/aH4wBnyVpFju1PbZ5J/GdQSY89JJveEitFhYPm6VKcPInuhbKD8&zy.m3u8
+剧集_雍正王朝,http://110.42.52.180:6688/livecast/huya.php?token=ZY-3259aXHBcmPvBrxjctjVA6JudtD8/l5LbikDV0w9UkcHohuVw5vgrIL8e/PfjxuclqVDFa44Vzq7&zy.m3u8
+剧集_士兵突击,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c0d5tOi28V0YrMnsxiv2K1IF2veUe6Tx/phlInZ3g3DiJZrUWkSTIBSWf8A%2B2o1397tuzKK6j1hm&zy.m3u8
+剧集_爱情公寓,http://110.42.52.180:6688/livecast/huya.php?token=ZY-21e1Towbm5b5wrwxyEDMzlY64EcyFgaqWMJaQyjoHQCdV9wgLNq2Uvq0f2lgDxnSXqkmTd35WqD5&zy.m3u8
+剧集_家有儿女,http://110.42.52.180:6688/livecast/huya.php?token=ZY-1da0eZgCtJa9RvLmgxFySED%2Bxmp0FWfIKJl4g6pqrQ5skQpvLwtr/kQj9m4tFV%2Bf97FQMwJmFNxt&zy.m3u8
+剧集_武林外传,http://110.42.52.180:6688/livecast/huya.php?token=ZY-0546hqNCL5IcD6E1%2BvlwuVV1K1lmVeT3sQCxkUJa6raAGTlF9CGHn4GAnDe2f4XjfpO7INRfuQcM&zy.m3u8
+剧集_地下交通站,http://110.42.52.180:6688/livecast/huya.php?token=ZY-c092pFkZlGR/0qISa9Zzyp/EHP6PJBU2fP%2Bmsg9zctsjj8DIVrCWceUiMNaG86LjrRB%2Bs3LXqVow&zy.m3u8
+剧集_邻里一家亲,http://110.42.52.180:6688/livecast/huya.php?token=ZY-b864JpUMPnyKaM%2B0ucqX6a8Fb2NKDKagrGKgsIRL7qfloFDvTZrNpE1duulNb5UPxN9KmjUjKdkw&zy.m3u8
