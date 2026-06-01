@@ -77,7 +77,7 @@ CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlm
 四川卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1d97aUeIvgsmYTpVPHyGFMAvhF5Fjxz8%2BRRzmqRy%2BVMlg/%2B2qUGjguOsle1EJ8JdgX5WTMs&zy.m3u8
 贵州卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a889%2B%2BtLQ%2BmYvQvctibBM5s2bLz2sxXFKK1lnR2laHysDKnkyM4HkJCxwFh2JJTZTol9B2Y&zy.m3u8
 青海安多卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3eb62s1U594RkyX%2BD4BTyp9%2BLjZp7vh8Y6D2sOLz0hhVmMFT5aVY%2BqEgoXpeZlByrcWuPIuiEQ&zy.m3u8
-附加地方频道,#genre#
+地方频道,#genre#
 浙江钱江,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3282SgOwfh3Z12aeLQ6Qq8f4/FohaxiR2Gt8xRlxIOKBNO3PJVZzOjcWgDsqQWGliR5DEN8&zy.m3u8
 浙江经济生活,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bcbdGebc8srpsgQsqR7hclJaH8xR3VE4Q4fuOgd3QgeEK/levNx6uVuW0DbZiJIqAa29vigonw&zy.m3u8
 浙江教科影视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2e51R2YUbW%2BL6THZW0eDsYq1ZEiaFOWXrTfKKRqmlwhJzJj82t1QskXA4p0WrQ9GBa3jHCFpBw&zy.m3u8
