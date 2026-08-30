@@ -56,7 +56,7 @@ CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlm
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 兵团卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-9767seRxfoBF3pBBTHGsUl2gpm8KLDCSHqYv8hoUJr699mCNGZq/3it96DHNLI/RjWTANUg&zy.m3u8
 河北卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-a5176Vg2W2%2BZoL80oR0jTIpzKOCWOtS0P2aFCzzoL9r8YoGr7zi6v5GZyzB/RgL4CoBO6bkh&zy.m3u8
-黑龙江卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-7a99LNvQ1L69xD5pQVKajG8QhboV1dpT/CtHfWOP%2BCw2OBumyrrcCocaGeJaEQ3%2B5Hn040Ml&zy.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 延边卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-e5c0z%2B/X/urtDTh4Q795u9L/B5VHCtrHOmZqdLjEESuVvS2xNggdr6bpoCbQZKiEfsOjt/8&zy.m3u8
 西藏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3d91wUa6Q5tAidVg5wdyI/zho64HIZUDL7Ljj1gjm2pjk4KMy8ly4j3GtJaVdLNjS4fes38&zy.m3u8
 西藏藏语卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2249ND6DhH9dUIWhtjXuqJoOM8ZgMV7c7kcWPye0BRseqBc5QzCLQkM%2B1JcEh0UjVCeIcXM&zy.m3u8
