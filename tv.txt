@@ -31,7 +31,7 @@ CCTV风云剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-af48oZr7YaII
 CCTV第一剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4864LA1jHSf5%2B31sGqeJJKBl%2B9s/e3ze5URe46EItcvdA8TtYpoKF6nCEFUZDdulLKARtuFgmjJtLi4&zy.m3u8
 CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlmocfFl5HCJjyYLg0sAVV0CMsP6D8HbumLJ%2B6ZeE2r1nEW0cCdiWRvtWDGZVDGlBQXOVs&zy.m3u8
 卫视频道,#genre#
-浙江卫视,https://tv.cctv.com/live/cctv10/
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d9ed4jE8H%2BHl/5tsZkybhDTAC1tK7NhyEmzwTveupu4gGtm32OoFU0W/f8e3yCbjjumiul4&zy.m3u8
 湖南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-dfd3Ub7KDgTI18Vn/baXl7JyvhVtqwoHfEaQwOXlViRWwXQjPqV0uX2q3dLmUL8ERe4y0ifQ&zy.m3u8
 江苏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-69c1UiRzTJZ60r6lafn4RpTM3tTvK9cZXk9b1SjEcqCjbAVc6nk09ZpDgUkIBO783URyL4E&zy.m3u8
