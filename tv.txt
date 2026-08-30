@@ -23,7 +23,7 @@ CGTN外语记录,http://110.42.52.180:6688/livecast/zb.php?token=ZY-378aEIZ6CnTa
 CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN俄语,http://110.42.52.180:6688/livecast/zb.php?token=ZY-36d6cJZlBruBF2nNX9PiwSp0OjVXuPuw0TwWJSoO05XGIiJ/n7SGn54XXl9IDJOYSQqFB4JpXA&zy.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ee561xJ2JhO68jYc7iN61GpJr15fYqTbD1Em0LZonCy6pdgbGJQMY6Jxf/iGhiLXQnzil1M&zy.m3u8
 CCTV4K,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1684EisVnE4jNOiKWEnk0cjiyWH9b8Usp6iueuSF%2Bu6vHj/rFNJM7OcN64Hs6/wmaomG%2ByRrMQ&zy.m3u8
 CCTV8K,http://110.42.52.180:6688/livecast/zb.php?token=ZY-1c7ckJkSm6ctyv3lf6dOp5oXp1wYAFIF/Qq5Y%2Byy8/B8ddNGPEjISjJUG4X1TcIdqqHwo02fyQ&zy.m3u8
