@@ -42,7 +42,7 @@ CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlm
 河南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-328e8%2BkfQHpg1x0TLlGrN6Xcfi%2BylilduT9EYveyUvPyYblp9Fjrw9MyFYmwSTx/D1jZAEJ2&zy.m3u8
 湖北卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-3d29G0edB19P5mQs8uNV9rC5Dfn1NeSZaqq/91MgfOd6ngotxa/qvrZyKuhN7qRpCr2azx2E&zy.m3u8
 吉林卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ccafn1IOP8XRksPGMX623NXEWhhfZH4770Y/8o2/ZzCEZB1TockX0TXFadNQg4I8j7RgLdc&zy.m3u8
-青海卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fa5edWRv1mTrzI0JLI/PEL1dDRU9FUNsoaVO4/cgQtcZMAWlF7FAu2ZGFp4LXB7dAWgxmeQ&zy.m3u8
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 海南卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-351aJeg1bYiOyf%2ByOKVa7q1J2Ty0FiGioJarDxcRexMWbAzjFpq0Kgacs9m4EkW7%2B%2BLw0R23%2BA&zy.m3u8
 辽宁卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-bb8eUtahM5MPn1uwB0xzafbclYLLjxvonEvdIji1Y4Q31OOCJFM%2BY7jSmuF/tlsdRkbRybE&zy.m3u8
 宁夏卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-f98b1e9ed7tNenaaHToiPjK6Of8zWXn1BbqJqCGxH8WvXchTQgxJZxlBoHSxFgtbAJ64A1k&zy.m3u8
