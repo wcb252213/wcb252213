@@ -63,7 +63,7 @@ CCTV怀旧剧场,http://110.42.52.180:6688/livecast/zb.php?token=ZY-63b65dozMvlm
 山西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-ecb24KUya33hxriJb9qDFOA%2BcYMzYVLssKRO5Ko01yxmoGl3QZgvlV3ONop%2BHNUHh9U0KBk&zy.m3u8
 陕西卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-997e%2BA9U2aQ0F5bb3ySSM7PlIiuf5mFO9hKWZ%2BqpW37eVTDl/9rBUeDSmiRTJxK4BanO0sWNdJ8&zy.m3u8
 农林卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c930v5nLzGm6Fr19eOqh3slFPv6kqzA%2BxwZN7DYJ%2BXVS8fwMwBSkrlOO5oSFvTPosPCK5HI&zy.m3u8
-内蒙古卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-2d0dx0avcORNPc5B00QDRu6tFgonxrayeChd5LEpgeTnyY1/ysHum3tZ4bIgjRtlir8FEg0i&zy.m3u8
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古蒙语卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-338e63z5AYelxtgwPhUGJlRH8xyg2zOAjejYaQ8GceA2Lf4y4P/2hDaR4MsPJAmB/lzn3RsIbA&zy.m3u8
 海峡卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-d150ZCnXPH1DThRrJ9ZixOkXf6IgsLbRecFvOizRgJiOl%2BzdWbB6JilnhTjyR0pxPNnVxmU&zy.m3u8
 厦门卫视,http://110.42.52.180:6688/livecast/zb.php?token=ZY-20abWEdVwGgsEoKzpI9gaaqvNYX6TJvYPJ1ATlSljcDc7tWAD/MUy/RdPlcarEGExB6oOAQ&zy.m3u8
