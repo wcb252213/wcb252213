@@ -32,7 +32,7 @@ CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音乐,http://110.42.52.180:6688/livecast/zb.php?token=ZY-37acQ4fXkyAADGYYVnhmlPYPFWLXoS2vzEh%2BaaGFMIPEll9sWixW4te%2BnYm4sPBCur70jDjWow&zy.m3u8
 CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://110.42.52.180:6688/livecast/zb.php?token=ZY-b428gBDRuZHG8xxFeRafuSIi67dqzdcFR/oqPjQMxaBn2EXI5GgciZpdWQ/6ICzyuZYK/bP8PA&zy.m3u8
-
+CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c580Lyl2wrYr5hTy2rBAeRCifwwZmYpribYUKscSWDeSkv0Kxr3thoHkpoyLV9P6FBicjGMe%2BA&zy.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV4欧洲,http://110.42.52.180:6688/livecast/zb.php?token=ZY-62faN4DEqWIOVJRr8PWVxRozoUVygiE1vV8xW7w8mk0zoVDX7yhqrOWS0%2BuKCHFTrdWtXM1HHsQ&zy.m3u8
