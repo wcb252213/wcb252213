@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://110.42.52.180:6688/livecast/zb.php?token=ZY-c957JNmVDnkw1lMlM3H36fiQ3WM5nEeq70RUrG6bQxdAzHYDNeI7PgX1A3E9CbeK6imEpo67&zy.
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV2财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fdc6M27S7cHveH3%2BTBtn/eImsFLEi8kCi3MBf7vslmPELTU7eejEhZpxEQpiF5zk1sEwSgEA&zy.m3u8
+CCTV2财经,http://110.42.52.180:6688/livecast/zb.php?token=ZY-fdc6M27S7cHveH3%2BTBtn/eImsFLEi8kCi3MBf7vslmPELTU7eejEhZpxEQpiF5zk1sEwSgEA&zy.
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3综艺,http://110.42.52.180:6688/livecast/zb.php?token=ZY-4f94lVZZcXozz7wO8X74Lqc5lhCIpXeAJ9DJnCEFcf2CrkEDMHD5Xpaj2vFAtQv2EfXiK9C8&zy.m3u8
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
